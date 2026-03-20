@@ -1,0 +1,57 @@
+site_name,site,date,event_id,fg_richness,functional_redundancy,functional_dispersion,mean_sst,wave_exposure,mean_wave_energy,mean_tidal_range,max_tidal_height
+"Beadnell Haven, Northumberland",BEA,2025-10-12,BEA_2025-10-12,6,7.2,0.558,12.7,0.83,0.26,3.43,4.72
+"Beadnell Haven, Northumberland",BEA,2025-11-18,BEA_2025-11-18,6,20.3,0.570,11.1,1.23,0.84,3.27,4.52
+"Beadnell Haven, Northumberland",BEA,2025-12-06,BEA_2025-12-06,6,11.2,0.572,9.6,2.96,3.53,4.28,5.12
+"Castle Beach, Falmouth",CAS,2024-10-19,CAS_2024-10-19,7,23.7,0.562,14.9,1.04,0.52,5.32,5.48
+"Castle Beach, Falmouth",CAS,2024-11-16,CAS_2024-11-16,6,27.0,0.565,14.0,1.04,0.30,4.93,5.29
+"Castle Beach, Falmouth",CAS,2024-12-14,CAS_2024-12-14,6,22.5,0.565,12.5,1.57,1.01,4.15,4.91
+"Castle Beach, Falmouth",CAS,2025-01-18,CAS_2025-01-18,7,20.3,0.570,9.8,0.83,0.29,4.13,5.00
+"Castle Beach, Falmouth",CAS,2025-02-15,CAS_2025-02-15,7,16.1,0.575,8.8,2.06,1.30,4.44,5.14
+"Castle Beach, Falmouth",CAS,2025-03-15,CAS_2025-03-15,6,27.5,0.571,9.8,1.23,0.52,4.31,5.11
+"Castle Beach, Falmouth",CAS,2025-04-12,CAS_2025-04-12,7,25.0,0.572,10.8,1.54,0.68,4.31,4.94
+"Castle Beach, Falmouth",CAS,2025-05-17,CAS_2025-05-17,6,30.5,0.570,14.1,0.72,0.23,3.29,4.57
+"Castle Beach, Falmouth",CAS,2025-06-14,CAS_2025-06-14,7,16.1,0.570,12.4,0.94,0.28,3.64,4.80
+"Castle Beach, Falmouth",CAS,2025-07-12,CAS_2025-07-12,6,22.2,0.575,17.0,0.52,0.06,3.90,5.00
+"Castle Beach, Falmouth",CAS,2025-08-09,CAS_2025-08-09,6,27.2,0.568,17.5,0.53,0.08,3.99,5.12
+"Castle Beach, Falmouth",CAS,2025-10-18,CAS_2025-10-18,7,20.7,0.568,14.7,1.27,0.92,3.61,4.80
+"Castle Beach, Falmouth",CAS,2025-11-08,CAS_2025-11-08,7,23.1,0.568,13.6,1.76,1.39,4.72,5.31
+"Castle Beach, Falmouth",CAS,2025-12-06,CAS_2025-12-06,7,23.6,0.565,12.3,1.92,1.34,4.67,5.26
+"East Sands Beach, Fife",EAS,2025-05-20,EAS_2025-05-20,6,8.2,0.562,11.1,1.19,0.73,2.37,4.32
+"East Sands Beach, Fife",EAS,2025-10-11,EAS_2025-10-11,6,7.7,0.563,13.2,0.53,0.12,4.20,5.45
+"East Sands Beach, Fife",EAS,2025-11-08,EAS_2025-11-08,6,7.2,0.572,10.6,0.74,0.31,4.61,5.60
+"East Sands Beach, Fife",EAS,2025-12-06,EAS_2025-12-06,2,2.5,0.428,8.0,2.21,1.46,4.66,5.53
+"Kilve Beach, Bridgwater, Somerset",KIL,2025-10-18,KIL_2025-10-18,5,3.6,0.566,15.1,0.44,0.08,8.81,10.97
+"Kilve Beach, Bridgwater, Somerset",KIL,2025-11-22,KIL_2025-11-22,6,3.7,0.570,12.6,1.23,0.40,9.23,11.14
+"Kilve Beach, Bridgwater, Somerset",KIL,2025-12-20,KIL_2025-12-20,6,7.2,0.575,9.5,1.06,0.45,8.78,10.86
+"Lee-on-the-Solent Beach, Hampshire",LEE,2025-10-18,LEE_2025-10-18,6,12.7,0.545,15.4,0.43,0.04,2.57,4.33
+"Lee-on-the-Solent Beach, Hampshire",LEE,2025-11-01,LEE_2025-11-01,5,12.8,0.540,12.9,0.50,0.07,1.98,3.97
+"Lee-on-the-Solent Beach, Hampshire",LEE,2025-12-13,LEE_2025-12-13,6,12.8,0.520,9.1,0.49,0.07,1.89,4.03
+"Menai Bridge Beach, Bangor",MEN,2025-02-12,MEN_2025-02-12,6,17.3,0.536,5.4,0.68,0.17,6.00,7.23
+"Menai Bridge Beach, Bangor",MEN,2025-03-12,MEN_2025-03-12,6,15.2,0.556,7.3,0.60,0.09,5.51,6.90
+"Menai Bridge Beach, Bangor",MEN,2025-04-12,MEN_2025-04-12,4,7.0,0.495,8.8,0.24,0.01,5.91,7.01
+"Menai Bridge Beach, Bangor",MEN,2025-05-18,MEN_2025-05-18,5,10.2,0.496,14.0,0.27,0.04,4.31,6.50
+"Menai Bridge Beach, Bangor",MEN,2025-10-18,MEN_2025-10-18,6,10.8,0.562,13.0,0.10,0.00,5.18,6.98
+"Menai Bridge Beach, Bangor",MEN,2025-11-01,MEN_2025-11-01,5,4.4,0.532,11.7,0.67,0.14,4.09,6.55
+"Menai Bridge Beach, Bangor",MEN,2025-12-13,MEN_2025-12-13,6,11.3,0.573,8.7,0.69,0.12,3.53,6.26
+"Mount Batten Beach, Plymouth",MTB,2024-11-16,MTB_2024-11-16,6,11.3,0.565,14.5,0.75,0.25,4.84,5.65
+"Mount Batten Beach, Plymouth",MTB,2024-12-14,MTB_2024-12-14,7,10.9,0.546,12.4,0.78,0.32,4.03,5.32
+"Mount Batten Beach, Plymouth",MTB,2025-01-18,MTB_2025-01-18,6,17.5,0.566,10.2,1.16,0.78,3.79,5.32
+"Mount Batten Beach, Plymouth",MTB,2025-02-15,MTB_2025-02-15,6,26.3,0.566,9.4,1.74,0.99,4.40,5.45
+"Mount Batten Beach, Plymouth",MTB,2025-03-02,MTB_2025-03-02,6,20.2,0.573,9.6,2.33,1.50,5.10,5.69
+"Mount Batten Beach, Plymouth",MTB,2025-03-15,MTB_2025-03-15,7,16.9,0.561,10.0,1.08,0.48,4.58,5.43
+"Mount Batten Beach, Plymouth",MTB,2025-04-12,MTB_2025-04-12,6,14.8,0.571,10.6,0.94,0.41,4.36,5.27
+"Mount Batten Beach, Plymouth",MTB,2025-05-17,MTB_2025-05-17,6,11.7,0.571,13.2,0.45,0.11,3.22,4.98
+"Mount Batten Beach, Plymouth",MTB,2025-06-14,MTB_2025-06-14,6,18.7,0.572,13.7,1.29,0.58,3.56,5.16
+"Mount Batten Beach, Plymouth",MTB,2025-07-12,MTB_2025-07-12,6,10.0,0.568,15.7,0.83,0.17,3.81,5.29
+"Mount Batten Beach, Plymouth",MTB,2025-08-09,MTB_2025-08-09,6,12.5,0.574,17.3,1.11,0.41,3.88,5.35
+"Mount Batten Beach, Plymouth",MTB,2025-10-18,MTB_2025-10-18,3,1.0,0.508,14.9,1.12,0.43,3.47,5.16
+"Mount Batten Beach, Plymouth",MTB,2025-11-08,MTB_2025-11-08,6,6.3,0.558,13.9,2.40,3.31,4.62,5.65
+"Mount Batten Beach, Plymouth",MTB,2025-12-06,MTB_2025-12-06,4,4.3,0.529,12.1,3.15,4.14,4.57,5.65
+"Ovingdean Beach, Brighton",OVI,2025-05-23,OVI_2025-05-23,5,3.6,0.563,13.9,0.39,0.06,4.50,6.01
+"Ovingdean Beach, Brighton",OVI,2025-07-19,OVI_2025-07-19,6,12.5,0.566,19.8,1.76,0.73,4.13,5.62
+"Ovingdean Beach, Brighton",OVI,2025-10-18,OVI_2025-10-18,6,6.5,0.567,15.4,0.64,0.09,4.30,5.94
+"Ovingdean Beach, Brighton",OVI,2025-11-01,OVI_2025-11-01,6,8.0,0.577,13.3,1.98,2.08,3.49,5.54
+"Ovingdean Beach, Brighton",OVI,2025-12-13,OVI_2025-12-13,6,8.2,0.573,10.5,2.11,1.96,3.10,5.41
+"Shoeburyness, Southend-on-Sea",SHO,2025-10-04,SHO_2025-10-04,6,10.3,0.559,15.6,0.53,0.06,3.99,5.39
+"Shoeburyness, Southend-on-Sea",SHO,2025-11-09,SHO_2025-11-09,5,3.0,0.557,11.6,0.34,0.04,4.90,6.00
+"Shoeburyness, Southend-on-Sea",SHO,2025-12-14,SHO_2025-12-14,6,6.5,0.538,8.7,0.35,0.04,3.44,4.87

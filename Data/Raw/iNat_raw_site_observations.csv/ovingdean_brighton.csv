@@ -1,0 +1,522 @@
+observed_on,quality_grade,place_guess,latitude,longitude,scientific_name,common_name,iconic_taxon_name
+2025-05-23,research,"Brighton and Hove, England, GB",50.8053685169,-0.070982703,Steromphala umbilicalis,Purple Topshell,Mollusca
+2025-05-23,research,"Brighton and Hove, England, GB",50.8054397784,-0.0710610144,Nucella lapillus,Atlantic Dogwhelk,Mollusca
+2025-05-23,needs_id,"Brighton and Hove, England, GB",50.80523862,-0.0716813313,Acanthocardia,,Mollusca
+2025-05-23,needs_id,"Brighton and Hove, England, GB",50.8052638803,-0.071597236,Chorda filum,Mermaid's Tresses,Chromista
+2025-05-23,research,"Brighton and Hove, England, GB",50.805218418,-0.0718874499,Phorcus lineatus,Lined Top Shell,Mollusca
+2025-05-23,research,"Brighton and Hove, England, GB",50.8052888335,-0.0717288321,Sargassum muticum,Japanese Wireweed,Chromista
+2025-05-23,needs_id,"Brighton and Hove, England, GB",50.8054980898,-0.0717165245,Ceramium,Banded Weeds,Plantae
+2025-05-23,research,"Brighton and Hove, England, GB",50.8055266693,-0.0717327769,Saccharina latissima,Sugar Kelp,Chromista
+2025-05-23,research,"Brighton and Hove, England, GB",50.8055949257,-0.0716799708,Actinia fragacea,Strawberry Anemone,Animalia
+2025-05-23,research,"Brighton and Hove, England, GB",50.805568738,-0.0716717274,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-05-23,needs_id,"Brighton and Hove, England, GB",50.8054744956,-0.0707017457,Patella vulgata,Common European Limpet,Mollusca
+2025-05-23,needs_id,"Brighton and Hove, England, GB",50.8055297628,-0.0707046171,Semibalanus balanoides,Northern Acorn Barnacle,Animalia
+2025-05-23,research,"Brighton and Hove, England, GB",50.8054762596,-0.0707817711,Crepidula fornicata,Common Slipper Limpet,Mollusca
+2025-05-23,research,"Brighton and Hove, England, GB",50.8055373008,-0.0707399428,Ocenebra erinaceus,European Sting Winkle,Mollusca
+2025-05-23,research,"Brighton and Hove, England, GB",50.8055690273,-0.0708276097,Steromphala umbilicalis,Purple Topshell,Mollusca
+2025-05-23,research,"Brighton and Hove, England, GB",50.8054244141,-0.0707702054,Venerupis corrugata,Pullet Carpet Shell,Mollusca
+2025-05-23,needs_id,"Brighton and Hove, England, GB",50.8055378896,-0.0707902647,Littorina,,Mollusca
+2025-05-23,research,"Brighton and Hove, England, GB",50.8054836972,-0.0708114768,Fucus serratus,Saw Wrack,Chromista
+2025-05-23,research,"Brighton and Hove, England, GB",50.8054938823,-0.0707655571,Chondrus crispus,Irish Moss,Plantae
+2025-07-19,research,"North Atlantic Ocean, Brighton, England, GB",50.8062976255,-0.072006647,Cancer pagurus,Edible Crab,Animalia
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8062807487,-0.0719333473,Fucus serratus,Saw Wrack,Chromista
+2025-07-19,needs_id,"Brighton and Hove, England, GB",50.8062169466,-0.0719874725,Calliblepharis,,Plantae
+2025-07-19,research,"North Atlantic Ocean, Brighton, England, GB",50.8062965853,-0.0720240417,Palaemon serratus,Common Prawn,Animalia
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8063041531,-0.0711955126,Carcinus maenas,European Green Crab,Animalia
+2025-07-19,research,"South Downs National Park, Brighton, England, GB",50.8063020115,-0.0711799826,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-07-19,research,United Kingdom,50.80601997,-0.07221108,Phorcus lineatus,Lined Top Shell,Mollusca
+2025-07-19,research,United Kingdom,50.8060057057,-0.0722352415,Actinia fragacea,Strawberry Anemone,Animalia
+2025-07-19,needs_id,United Kingdom,50.8059548551,-0.0722121075,Patella ulyssiponensis,China Limpet,Mollusca
+2025-07-19,needs_id,United Kingdom,50.8058828932,-0.0722771927,Ceramium,Banded Weeds,Plantae
+2025-07-19,needs_id,United Kingdom,50.80598189,-0.07224568,Patella vulgata,Common European Limpet,Mollusca
+2025-07-19,research,United Kingdom,50.8058026334,-0.0722441275,Fucus serratus,Saw Wrack,Chromista
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8061808997,-0.0722686889,Carcinus maenas,European Green Crab,Animalia
+2025-07-19,research,"North Atlantic Ocean, Brighton, England, GB",50.8058493472,-0.0729097032,Fucus serratus,Saw Wrack,Chromista
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8063016051,-0.0711769686,Ulva intestinalis,Gutweed,Plantae
+2025-07-19,needs_id,"North Atlantic Ocean, Brighton, England, GB",50.8058366751,-0.0729676535,Ulva intestinalis,Gutweed,Plantae
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8060468325,-0.0724517658,Actinia,,Animalia
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.806043295,-0.0724522057,Ulva lactuca,Broadleaf Sea Lettuce,Plantae
+2025-07-19,research,"South Downs National Park, Brighton, England, GB",50.8063072977,-0.0712734668,Carcinus maenas,European Green Crab,Animalia
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8060377782,-0.0724538375,Cantharidinae,,Mollusca
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8060377782,-0.0724538375,Patellogastropoda,True Limpets,Mollusca
+2025-07-19,research,"North Atlantic Ocean, Brighton, England, GB",50.8058389341,-0.0731594702,Necora puber,Velvet Swimming Crab,Animalia
+2025-07-19,research,"North Atlantic Ocean, Brighton, England, GB",50.8058435335,-0.073152998,Fucus serratus,Saw Wrack,Chromista
+2025-07-19,research,United Kingdom,50.8057018,-0.07247747,Steromphala umbilicalis,Purple Topshell,Mollusca
+2025-07-19,research,United Kingdom,50.8057141047,-0.0723355541,Phorcus lineatus,Lined Top Shell,Mollusca
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8058687742,-0.0726395886,Pleocyemata,"Crabs, Lobsters, Shrimps, and Allies",Animalia
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8063007069,-0.0711728951,Rhodymeniophycidae,,Plantae
+2025-07-19,research,"South Downs National Park, Brighton, England, GB",50.8063008639,-0.0712064774,Carcinus maenas,European Green Crab,Animalia
+2025-07-19,research,"South Downs National Park, Brighton, England, GB",50.8063026822,-0.0711977839,Lipophrys pholis,Shanny,Actinopterygii
+2025-07-19,research,"North Atlantic Ocean, Brighton, England, GB",50.806304425,-0.0711788701,Porcellana platycheles,Hairy Porcelain Crab,Animalia
+2025-07-19,needs_id,"South Downs National Park, Brighton, England, GB",50.8063022241,-0.0711799222,Rhodymeniophycidae,,Plantae
+2025-07-19,research,"South Downs National Park, Brighton, England, GB",50.8063061699,-0.0711782034,Carcinus maenas,European Green Crab,Animalia
+2025-07-19,research,"South Downs National Park, Brighton, England, GB",50.8063064853,-0.0711891626,Necora puber,Velvet Swimming Crab,Animalia
+2025-07-19,research,"South Downs National Park, Brighton, England, GB",50.8062995199,-0.0711673167,Magallana gigas,Pacific Oyster,Mollusca
+2025-07-19,research,"South Downs National Park, Brighton, England, GB",50.806305489,-0.071196106,Larus argentatus,European Herring Gull,Aves
+2025-07-19,needs_id,United Kingdom,50.80564303,-0.07258269,Buccinoidea,True Whelks and Allies,Mollusca
+2025-07-19,research,"South Downs National Park, Brighton, England, GB",50.8068301005,-0.0736814026,Carcinus maenas,European Green Crab,Animalia
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8063004508,-0.0711717703,Littorina,,Mollusca
+2025-07-19,research,"North Atlantic Ocean, Brighton, England, GB",50.8064514181,-0.0731298181,Palaemon serratus,Common Prawn,Animalia
+2025-07-19,research,United Kingdom,50.80552197,-0.0726336,Cancer pagurus,Edible Crab,Animalia
+2025-07-19,research,United Kingdom,50.80550044,-0.07267499,Corallina officinalis,Common Coralline,Plantae
+2025-07-19,needs_id,"North Atlantic Ocean, Brighton, England, GB",50.8061402036,-0.0723008975,Chondrus crispus,Irish Moss,Plantae
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8061787239,-0.0713950075,Loligo vulgaris,European Squid,Mollusca
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8061248874,-0.0726880776,Steromphala umbilicalis,Purple Topshell,Mollusca
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8061347023,-0.072750139,Acanthocardia echinata,Prickly Cockle,Mollusca
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8061718446,-0.0726704436,Diptera,Flies,Insecta
+2025-07-19,research,United Kingdom,50.8056284,-0.07278797,Ulva intestinalis,Gutweed,Plantae
+2025-07-19,research,United Kingdom,50.80572282,-0.0728409,Mytilus edulis,Blue Mussel,Mollusca
+2025-07-19,research,"North Atlantic Ocean, Brighton, England, GB",50.8062376372,-0.071968516,Sepia officinalis,European Common Cuttlefish,Mollusca
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.806166368,-0.072686383,Brachyura,True Crabs,Animalia
+2025-07-19,research,United Kingdom,50.80591385,-0.07288277,Maja brachydactyla,Spiny Spider Crab,Animalia
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.806166368,-0.072686383,Gobioidei,Gobies and allies,Actinopterygii
+2025-07-19,research,"North Atlantic Ocean, Brighton, England, GB",50.8052489067,-0.0709993821,Maja brachydactyla,Spiny Spider Crab,Animalia
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.806166368,-0.072686383,Gobioidei,Gobies and allies,Actinopterygii
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8062959293,-0.071170537,Pholas dactylus,Common piddock,Mollusca
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8061701087,-0.0726702136,Gobius,,Actinopterygii
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8060504176,-0.072003153,Chondrus crispus,Irish Moss,Plantae
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8059846443,-0.0721267786,Patella vulgata,Common European Limpet,Mollusca
+2025-07-19,research,United Kingdom,50.8060668,-0.07277018,Fucus vesiculosus,bladder wrack,Chromista
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8058754774,-0.0724134408,Fucus serratus,Saw Wrack,Chromista
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8059003298,-0.0724193081,Ceramiales,,Plantae
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8057722962,-0.072583342,Steromphala umbilicalis,Purple Topshell,Mollusca
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8057932929,-0.0725940708,Pholadidae,Piddocks and Angelwings,Mollusca
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8058655868,-0.0726365671,Littorina,,Mollusca
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.805888637,-0.0726081524,Steromphala umbilicalis,Purple Topshell,Mollusca
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8058960131,-0.0726235751,Littorina littorea,Common Periwinkle,Mollusca
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8059466398,-0.0727239065,Semibalanus balanoides,Northern Acorn Barnacle,Animalia
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8058936662,-0.0726105832,Ulva intestinalis,Gutweed,Plantae
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8058261011,-0.0727750736,Lipophrys pholis,Shanny,Actinopterygii
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8058324784,-0.0727714321,Palaemon,Glass Shrimps,Animalia
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8058020779,-0.0727707541,Patella vulgata,Common European Limpet,Mollusca
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8058183939,-0.0727914585,Caenogastropoda,Caenogastropods,Mollusca
+2025-07-19,research,United Kingdom,50.80611093,-0.07279608,Phorcus lineatus,Lined Top Shell,Mollusca
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8058075007,-0.0728002632,Palmaria palmata,Dulse,Plantae
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8058025144,-0.0728052962,Ceramiales,,Plantae
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8061036521,-0.0715928619,Carcinus maenas,European Green Crab,Animalia
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8056484861,-0.0727150313,Carcinus maenas,European Green Crab,Animalia
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.805634455,-0.07281651,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8061783675,-0.0726758918,Pleocyemata,"Crabs, Lobsters, Shrimps, and Allies",Animalia
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8056446847,-0.0729424428,Gigartinales,,Plantae
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8059280605,-0.0728525786,Littorina,,Mollusca
+2025-07-19,research,United Kingdom,50.80612552,-0.07270572,Phorcus lineatus,Lined Top Shell,Mollusca
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.80562025,-0.0729028569,Carcinus maenas,European Green Crab,Animalia
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8061783675,-0.0726758918,Crepidula fornicata,Common Slipper Limpet,Mollusca
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8055636706,-0.0729060452,Nucella lapillus,Atlantic Dogwhelk,Mollusca
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8061783675,-0.0726758918,Lipophrys pholis,Shanny,Actinopterygii
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8055987698,-0.0729112332,Corallina officinalis,Common Coralline,Plantae
+2025-07-19,research,United Kingdom,50.80624924,-0.07293658,Necora puber,Velvet Swimming Crab,Animalia
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8055326218,-0.0728590135,Ostreidae,True Oysters,Mollusca
+2025-07-19,research,United Kingdom,50.80625766,-0.07289296,Buccinum undatum,Common Whelk,Mollusca
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8063030291,-0.0711642913,Mytilus edulis,Blue Mussel,Mollusca
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8055288857,-0.0726719387,Spirobranchus lamarcki,Lamarck's Christmas Tree Worm,Animalia
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8055242891,-0.0725482215,Sargassum muticum,Japanese Wireweed,Chromista
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8055087596,-0.0725541783,Gigartinales,,Plantae
+2025-07-19,needs_id,United Kingdom,50.80624808,-0.07274064,Gigartinales,,Plantae
+2025-07-19,needs_id,United Kingdom,50.80622778,-0.07273759,Ceramium,Banded Weeds,Plantae
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8058353374,-0.0731057655,Animalia,Animals,Animalia
+2025-07-19,research,"North Atlantic Ocean, Brighton, England, GB",50.8054585282,-0.0713777786,Actinia fragacea,Strawberry Anemone,Animalia
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8061718446,-0.0726704436,Phorcus lineatus,Lined Top Shell,Mollusca
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8055043144,-0.0725962385,Fucus serratus,Saw Wrack,Chromista
+2025-07-19,research,"Greenways, Brighton and Hove, Brighton BN2, UK",50.8063203421,-0.0712176785,Carcinus maenas,European Green Crab,Animalia
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.805499602,-0.0725305053,Palmaria palmata,Dulse,Plantae
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8059237881,-0.0723725494,Semibalanus balanoides,Northern Acorn Barnacle,Animalia
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8062926449,-0.071475813,Larus argentatus,European Herring Gull,Aves
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8061814038,-0.0726707519,Chroicocephalus ridibundus,Black-headed Gull,Aves
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8063262195,-0.0718830705,Chondrus crispus,Irish Moss,Plantae
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8055137809,-0.0725042476,Crepidula fornicata,Common Slipper Limpet,Mollusca
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8054959029,-0.0724784844,Necora puber,Velvet Swimming Crab,Animalia
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8055442873,-0.072204695,Gastropoda,Gastropods,Mollusca
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8053033575,-0.0718814321,Lithothamnion,,Plantae
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8051962079,-0.0711811402,Porcellana platycheles,Hairy Porcelain Crab,Animalia
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8051596546,-0.0709568653,Ostrea edulis,Native oyster,Mollusca
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8051722793,-0.0709686498,Crepidula fornicata,Common Slipper Limpet,Mollusca
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8055194142,-0.0709176902,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8055052488,-0.0709178578,Actinia fragacea,Strawberry Anemone,Animalia
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.805485909,-0.0713299475,Acanthocardia echinata,Prickly Cockle,Mollusca
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8061646234,-0.0712716663,Carcinus maenas,European Green Crab,Animalia
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.806324185,-0.0714076086,Porcellana platycheles,Hairy Porcelain Crab,Animalia
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8062843294,-0.0714471061,Rhodymeniophycidae,,Plantae
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8061600497,-0.0711218776,Steromphala umbilicalis,Purple Topshell,Mollusca
+2025-07-19,needs_id,"Brighton and Hove, England, GB",50.8061881447,-0.0714458032,Trochidae,Top Snails,Mollusca
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8062534801,-0.0715389652,Patella,Patella Limpets,Mollusca
+2025-07-19,needs_id,"Brighton BN2, UK",50.80633857,-0.07201564,Gelidium,Jellyweeds,Plantae
+2025-07-19,research,"Brighton and Hove, England, GB",50.8062592796,-0.0719145725,Fucus serratus,Saw Wrack,Chromista
+2025-07-19,needs_id,"Brighton and Hove, England, GB",50.8062558687,-0.0719231634,Electra pilosa,Hairy Sea-mat,Animalia
+2025-07-19,research,"Brighton and Hove, England, GB",50.8062768828,-0.0718758167,Chondrus crispus,Irish Moss,Plantae
+2025-07-19,needs_id,"Brighton and Hove, England, GB",50.8062616965,-0.0719446227,Rhodophyta,red algae,Plantae
+2025-07-19,research,"Brighton and Hove, England, GB",50.806257919,-0.0717578833,Crepidula fornicata,Common Slipper Limpet,Mollusca
+2025-07-19,research,"Brighton and Hove, England, GB",50.8062243489,-0.0718004933,Patella vulgata,Common European Limpet,Mollusca
+2025-07-19,needs_id,"Brighton and Hove, England, GB",50.8062527511,-0.0717769319,Fucus,vesicled rockweeds,Chromista
+2025-07-19,research,"Brighton and Hove, England, GB",50.8062709109,-0.0717867635,Chorda filum,Mermaid's Tresses,Chromista
+2025-07-19,needs_id,"Brighton and Hove, England, GB",50.8063176394,-0.0717527638,Calliblepharis ciliata,,Plantae
+2025-07-19,research,"Brighton and Hove, England, GB",50.8062671162,-0.0717254226,Sepia officinalis,European Common Cuttlefish,Mollusca
+2025-07-19,research,"Brighton and Hove, England, GB",50.8062510333,-0.0717654765,Buccinum undatum,Common Whelk,Mollusca
+2025-07-19,needs_id,"Brighton and Hove, England, GB",50.8061495067,-0.0715647622,Laurencia,,Plantae
+2025-07-19,needs_id,"Brighton and Hove, England, GB",50.8062153362,-0.0716001918,Rhodophyta,red algae,Plantae
+2025-07-19,research,"Brighton and Hove, England, GB",50.8061702717,-0.0714739018,Tritia reticulata,Netted Dogwhelk,Mollusca
+2025-07-19,research,"Brighton and Hove, England, GB",50.8061992028,-0.0715358517,Larus argentatus,European Herring Gull,Aves
+2025-07-19,research,"Brighton and Hove, England, GB",50.8061822715,-0.0715447525,Sargassum muticum,Japanese Wireweed,Chromista
+2025-07-19,needs_id,"Brighton and Hove, England, GB",50.8061541786,-0.0714836668,Orchestia,,Animalia
+2025-07-19,research,"Brighton and Hove, England, GB",50.805799585,-0.0707405163,Sepia officinalis,European Common Cuttlefish,Mollusca
+2025-07-19,needs_id,"Brighton and Hove, England, GB",50.8061942414,-0.0712461046,Fucellia,Seaweed Flies,Insecta
+2025-07-19,research,"Brighton and Hove, England, GB",50.8063656673,-0.0714561861,Morus bassanus,Northern Gannet,Aves
+2025-07-19,needs_id,"Brighton and Hove, England, GB",50.8062041269,-0.0715499215,Pinus,pines,Plantae
+2025-07-19,needs_id,"Brighton and Hove, England, GB",50.8061939108,-0.0715552488,Halidrys,,Chromista
+2025-07-19,needs_id,"Brighton and Hove, England, GB",50.8062301401,-0.0714810551,Rhodophyta,red algae,Plantae
+2025-07-19,needs_id,"Brighton and Hove, England, GB",50.8062470638,-0.0715167521,Cladostephus,,Chromista
+2025-07-19,research,"Brighton and Hove, England, GB",50.8061946709,-0.0715535783,Scyliorhinus canicula,Small-spotted Catshark,Animalia
+2025-07-19,needs_id,"Brighton and Hove, England, GB",50.8054490201,-0.0713147498,Acanthocardia,,Mollusca
+2025-07-19,research,"Brighton and Hove, England, GB",50.8054775904,-0.0712239645,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-07-19,research,"Brighton and Hove, England, GB",50.8054663058,-0.0711991073,Anemonia viridis,snakelocks anemone,Animalia
+2025-07-19,research,"Brighton and Hove, England, GB",50.8052261287,-0.0709117796,Actinia fragacea,Strawberry Anemone,Animalia
+2025-07-19,research,"Brighton and Hove, England, GB",50.8052373608,-0.0708913376,Semibalanus balanoides,Northern Acorn Barnacle,Animalia
+2025-07-19,research,"Brighton and Hove, England, GB",50.8050838194,-0.0709977868,Porcellana platycheles,Hairy Porcelain Crab,Animalia
+2025-07-19,research,"Brighton and Hove, England, GB",50.80509609,-0.0710305054,Actinia fragacea,Strawberry Anemone,Animalia
+2025-07-19,research,"Brighton and Hove, England, GB",50.8050703408,-0.0709927089,Nucella lapillus,Atlantic Dogwhelk,Mollusca
+2025-07-19,research,"Brighton and Hove, England, GB",50.8050858454,-0.071009079,Littorina littorea,Common Periwinkle,Mollusca
+2025-07-19,research,"Brighton and Hove, England, GB",50.8050793379,-0.0709991042,Steromphala umbilicalis,Purple Topshell,Mollusca
+2025-07-19,research,"Brighton and Hove, England, GB",50.8050790226,-0.0710102301,Nucella lapillus,Atlantic Dogwhelk,Mollusca
+2025-07-19,research,"Brighton and Hove, England, GB",50.8050199377,-0.0710320397,Pholas dactylus,Common piddock,Mollusca
+2025-07-19,research,"Brighton and Hove, England, GB",50.8050364662,-0.0710634489,Pirimela denticulata,Toothed Crab,Animalia
+2025-07-19,research,"Brighton and Hove, England, GB",50.8050677801,-0.0710632218,Ulva intestinalis,Gutweed,Plantae
+2025-07-19,needs_id,"Brighton and Hove, England, GB",50.8051274793,-0.071077064,Bangiaceae,,Plantae
+2025-07-19,research,"Brighton and Hove, England, GB",50.805101417,-0.0712248977,Corallina officinalis,Common Coralline,Plantae
+2025-07-19,research,"Brighton and Hove, England, GB",50.8053376803,-0.0708196048,Maja brachydactyla,Spiny Spider Crab,Animalia
+2025-07-19,research,"Brighton and Hove, England, GB",50.8057118312,-0.0706936419,Phorcus lineatus,Lined Top Shell,Mollusca
+2025-07-19,research,"Brighton and Hove, England, GB",50.8054647803,-0.0707761198,Tritia,,Mollusca
+2025-07-19,needs_id,"Brighton and Hove, England, GB",50.8055558884,-0.070675537,Balanomorpha,Symmetrical Sessile Barnacles,Animalia
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8062803386,-0.0717825841,Lepidochitona cinerea,Grey Mail-shell,Mollusca
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8063759147,-0.0721915967,Corallina officinalis,Common Coralline,Plantae
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.806208905,-0.0715476821,Littorina littorea,Common Periwinkle,Mollusca
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8059225929,-0.0723391825,Fucus serratus,Saw Wrack,Chromista
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.805939304,-0.0722497157,Steromphala umbilicalis,Purple Topshell,Mollusca
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8062140082,-0.0716210536,Steromphala cineraria,Grey Topshell,Mollusca
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8063955807,-0.0721535544,Porcellana platycheles,Hairy Porcelain Crab,Animalia
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8063363186,-0.0720033682,Sargassum muticum,Japanese Wireweed,Chromista
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8062464334,-0.07125493,Rhodophyta,red algae,Plantae
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8062602314,-0.0717338235,Lanice conchilega,Sand Mason Worm,Animalia
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.806226803,-0.0716015201,Rhodothamniella floridula,sand binder,Plantae
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8063969887,-0.0721240008,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8060673255,-0.0720373032,Carcinus maenas,European Green Crab,Animalia
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8058933015,-0.0722993522,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8059014538,-0.0722880608,Actinia,,Animalia
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8059056873,-0.0722661339,Furcellaria lumbricalis,Clawed Forked Weed,Plantae
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8058796059,-0.0725721769,Littorina saxatilis,Rough Periwinkle,Mollusca
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8058817938,-0.0726190476,Porcellana platycheles,Hairy Porcelain Crab,Animalia
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8059014585,-0.0726282161,Porcellana platycheles,Hairy Porcelain Crab,Animalia
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8057783541,-0.0727297238,Fucus vesiculosus,bladder wrack,Chromista
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8057551382,-0.0727506881,Steromphala cineraria,Grey Topshell,Mollusca
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8055766704,-0.0726926924,Ulva flexuosa,Flexuous Gutweed,Plantae
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8059070301,-0.0722962408,Patella vulgata,Common European Limpet,Mollusca
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8055760096,-0.0726867696,Calliblepharis ciliata,,Plantae
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8055709093,-0.0726062193,Porcellana platycheles,Hairy Porcelain Crab,Animalia
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8055748112,-0.0726051339,Pholas dactylus,Common piddock,Mollusca
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8057518843,-0.0723609315,Tritia,,Mollusca
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8057847094,-0.0724019066,Animalia,Animals,Animalia
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8057721355,-0.0724055937,Spirobranchus lamarcki,Lamarck's Christmas Tree Worm,Animalia
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8057632628,-0.0723634002,Carcinus maenas,European Green Crab,Animalia
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8056133447,-0.0721251688,Corallina officinalis,Common Coralline,Plantae
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8055421388,-0.0721338112,Maja brachydactyla,Spiny Spider Crab,Animalia
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8054934047,-0.0721504361,Semibalanus balanoides,Northern Acorn Barnacle,Animalia
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8055898347,-0.0716569659,Anemonia viridis,snakelocks anemone,Animalia
+2025-07-19,research,"Brighton and Hove, England, GB",50.8052128194,-0.0717950617,Corallina officinalis,Common Coralline,Plantae
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8063138567,-0.0719225555,Spirobranchus triqueter,Keeled Tubeworm,Animalia
+2025-10-18,research,"Greenways, Brighton and Hove, Brighton BN2, UK",50.8063066,-0.0711479,Patella vulgata,Common European Limpet,Mollusca
+2025-10-18,research,United Kingdom,50.80601963,-0.0722283,Phorcus lineatus,Lined Top Shell,Mollusca
+2025-10-18,research,"Greenways, Brighton and Hove, Brighton BN2 7BS, UK",50.80613516,-0.07224706,Phorcus lineatus,Lined Top Shell,Mollusca
+2025-10-18,needs_id,United Kingdom,50.80605926,-0.07222284,Ulva,Sea Lettuces,Plantae
+2025-10-18,research,United Kingdom,50.80604806,-0.0722136,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-10-18,research,United Kingdom,50.80599698,-0.07222495,Steromphala umbilicalis,Purple Topshell,Mollusca
+2025-10-18,research,United Kingdom,50.80601125,-0.07224022,Fucus serratus,Saw Wrack,Chromista
+2025-10-18,research,United Kingdom,50.8060056,-0.07223186,Corallina officinalis,Common Coralline,Plantae
+2025-10-18,research,United Kingdom,50.80600973,-0.07222749,Sargassum muticum,Japanese Wireweed,Chromista
+2025-10-18,research,United Kingdom,50.80608153,-0.07224438,Littorina obtusata,Flat Periwinkle,Mollusca
+2025-10-18,research,United Kingdom,50.8057983333,-0.071835,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-10-18,research,United Kingdom,50.8059283333,-0.0719233333,Patella vulgata,Common European Limpet,Mollusca
+2025-10-18,research,United Kingdom,50.80604655,-0.0722959,Semibalanus balanoides,Northern Acorn Barnacle,Animalia
+2025-10-18,research,United Kingdom,50.80602536,-0.07230263,Actinia fragacea,Strawberry Anemone,Animalia
+2025-10-18,research,"Undercliff Walk, Brighton, England, GB",50.8059712612,-0.0720936871,Fucus vesiculosus,bladder wrack,Chromista
+2025-10-18,research,"Undercliff Walk, Brighton, England, GB",50.8058196679,-0.0720272971,Phorcus lineatus,Lined Top Shell,Mollusca
+2025-10-18,research,"Undercliff Walk, Brighton, England, GB",50.8057041599,-0.0718401868,Actinia fragacea,Strawberry Anemone,Animalia
+2025-10-18,research,"Undercliff Walk, Brighton, England, GB",50.8056275879,-0.0719237859,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-10-18,research,United Kingdom,50.80589244,-0.07243879,Nucella lapillus,Atlantic Dogwhelk,Mollusca
+2025-10-18,research,United Kingdom,50.8058083333,-0.072105,Sargassum muticum,Japanese Wireweed,Chromista
+2025-10-18,research,"Undercliff Walk, Brighton, England, GB",50.8061345739,-0.0713234166,Actinia fragacea,Strawberry Anemone,Animalia
+2025-10-18,research,"Undercliff Walk, Brighton, England, GB",50.8055321367,-0.0719282502,Fucus serratus,Saw Wrack,Chromista
+2025-10-18,research,United Kingdom,50.8059583333,-0.072145,Phorcus lineatus,Lined Top Shell,Mollusca
+2025-10-18,research,United Kingdom,50.80593475,-0.07266505,Palmaria palmata,Dulse,Plantae
+2025-10-18,research,United Kingdom,50.80593338,-0.07266135,Littorina littorea,Common Periwinkle,Mollusca
+2025-10-18,research,United Kingdom,50.8062116667,-0.0724866667,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-10-18,research,"Greenways, Brighton and Hove, Brighton BN2, UK",50.8057983333,-0.071735,Raja montagui,Spotted Skate,Animalia
+2025-10-18,research,"Greenways, Brighton and Hove, Brighton BN2, UK",50.8057083333,-0.07093,Crepidula fornicata,Common Slipper Limpet,Mollusca
+2025-10-18,needs_id,United Kingdom,50.8057351,-0.07287108,Palaemon elegans,Rockpool Prawn,Animalia
+2025-10-18,research,"Undercliff Walk, Brighton, England, GB",50.8061345739,-0.0713234166,Amphipholis squamata,Dwarf Brittle Star,Animalia
+2025-10-18,research,"Undercliff Walk, Brighton, England, GB",50.8061345739,-0.0713234166,Lanice conchilega,Sand Mason Worm,Animalia
+2025-10-18,research,"Greenways, Brighton and Hove, Brighton BN2, UK",50.805645,-0.07155,Fucus serratus,Saw Wrack,Chromista
+2025-10-18,research,United Kingdom,50.80573122,-0.07278888,Raja montagui,Spotted Skate,Animalia
+2025-10-18,research,"Greenways, Brighton and Hove, Brighton BN2, UK",50.8055066667,-0.071865,Grateloupia turuturu,Devil's Tongue Weed,Plantae
+2025-10-18,needs_id,United Kingdom,50.80571917,-0.07289958,Rhabditophora,,Animalia
+2025-10-18,research,United Kingdom,50.805705,-0.071975,Acanthocardia echinata,Prickly Cockle,Mollusca
+2025-10-18,needs_id,United Kingdom,50.8057016667,-0.0719833333,Semibalanus,,Animalia
+2025-10-18,research,"Greenways, Brighton and Hove, Brighton BN2, UK",50.8061499937,-0.0715368614,Fucus serratus,Saw Wrack,Chromista
+2025-10-18,needs_id,"Brighton BN2, UK",50.806286442,-0.0718721375,Serpulidae,Serpulid Tubeworms,Animalia
+2025-10-18,research,"Brighton and Hove, England, GB",50.8062495756,-0.0716924295,Corallina officinalis,Common Coralline,Plantae
+2025-10-18,needs_id,"Brighton BN2, UK",50.8062802976,-0.0717946887,Polyplacophora,Chitons,Mollusca
+2025-10-18,research,"Brighton and Hove, England, GB",50.8063415297,-0.0718184933,Osmundea pinnatifida,Pepper Dulse,Plantae
+2025-10-18,research,"Brighton BN2, UK",50.8062671613,-0.0717507675,Nucella lapillus,Atlantic Dogwhelk,Mollusca
+2025-10-18,research,"Brighton BN2, UK",50.8062434312,-0.071792677,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-10-18,research,"Brighton BN2, UK",50.8062139804,-0.0717849657,Lanice conchilega,Sand Mason Worm,Animalia
+2025-10-18,research,"Brighton BN2, UK",50.8061658845,-0.0716703013,Steromphala umbilicalis,Purple Topshell,Mollusca
+2025-10-18,research,"Brighton BN2, UK",50.8061997847,-0.0717018172,Lepidochitona cinerea,Grey Mail-shell,Mollusca
+2025-10-18,needs_id,"Brighton and Hove, England, GB",50.8062042341,-0.0717568025,Acanthochitona,,Mollusca
+2025-10-18,needs_id,"Brighton and Hove, England, GB",50.8061345268,-0.0716404617,Lithophyllum,encrusting coralline algae,Plantae
+2025-10-18,research,"Greenways, Brighton and Hove, Brighton BN2, UK",50.8060855833,-0.0713715702,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-10-18,needs_id,Ovingdean Big Rock Pool Challenge Hub,50.8057845263,-0.071782937,Membranipora membranacea,kelp lace bryozoan,Animalia
+2025-10-18,needs_id,Ovingdean Big Rock Pool Challenge Hub,50.8057845263,-0.071782937,Ulva,Sea Lettuces,Plantae
+2025-10-18,research,Ovingdean Big Rock Pool Challenge Hub,50.8057845263,-0.071782937,Anemonia viridis,snakelocks anemone,Animalia
+2025-10-18,needs_id,Ovingdean Big Rock Pool Challenge Hub,50.8057845263,-0.071782937,Ciliata,,Actinopterygii
+2025-10-18,research,Ovingdean Big Rock Pool Challenge Hub,50.8057845263,-0.071782937,Littorina littorea,Common Periwinkle,Mollusca
+2025-10-18,needs_id,Ovingdean Big Rock Pool Challenge Hub,50.8057845263,-0.071782937,Polychaeta,Polychaete Worms,Animalia
+2025-10-18,needs_id,"Undercliff Walk, Brighton, England, GB",50.8062537406,-0.0716663347,Acotylea,Acotylean Flatworms,Animalia
+2025-10-18,research,"Brighton and Hove, England, GB",50.8062328104,-0.0716414955,Calliblepharis jubata,,Plantae
+2025-10-18,research,"Undercliff Walk, Brighton, England, GB",50.8063424173,-0.0718516636,Littorina littorea,Common Periwinkle,Mollusca
+2025-10-18,needs_id,"Undercliff Walk, Brighton, England, GB",50.8062625561,-0.0716939826,Electra,,Animalia
+2025-10-18,needs_id,"Undercliff Walk, Brighton, England, GB",50.8062375882,-0.0716462827,Membraniporoidea,,Animalia
+2025-10-18,research,"Undercliff Walk, Brighton, England, GB",50.8062725313,-0.0717590179,Steromphala umbilicalis,Purple Topshell,Mollusca
+2025-10-18,needs_id,"Undercliff Walk, Brighton, England, GB",50.8062343851,-0.0716431644,Acanthochitona fascicularis,,Mollusca
+2025-10-18,needs_id,"Undercliff Walk, Brighton, England, GB",50.8062107985,-0.0716270413,Porphyra,,Plantae
+2025-10-18,research,"Undercliff Walk, Brighton, England, GB",50.8062641566,-0.0716894884,Corallina officinalis,Common Coralline,Plantae
+2025-10-18,research,"Undercliff Walk, Brighton, England, GB",50.8062221185,-0.0716462255,Palmaria palmata,Dulse,Plantae
+2025-10-18,needs_id,"Undercliff Walk, Brighton, England, GB",50.8062302025,-0.0716320725,Ulva,Sea Lettuces,Plantae
+2025-10-18,needs_id,"Undercliff Walk, Brighton, England, GB",50.8063240359,-0.0718965871,Rhodymeniophycidae,,Plantae
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8060188077,-0.0721360792,Fucus vesiculosus,bladder wrack,Chromista
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.805972453,-0.0722327,Ulva,Sea Lettuces,Plantae
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.8059205055,-0.0721978617,Steromphala umbilicalis,Purple Topshell,Mollusca
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8059225859,-0.0721792706,Patella vulgata,Common European Limpet,Mollusca
+2025-07-19,research,"Undercliff Walk, Brighton, England, GB",50.805744198,-0.0723744387,Steromphala cineraria,Grey Topshell,Mollusca
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8056855958,-0.0724747782,Corallina officinalis,Common Coralline,Plantae
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8056913577,-0.0724797096,Mastocarpus stellatus,false Irish moss,Plantae
+2025-07-19,needs_id,"Undercliff Walk, Brighton, England, GB",50.8063005241,-0.0711666417,Littorina obtusata,Flat Periwinkle,Mollusca
+2025-11-01,needs_id,"Brighton BN2, UK",50.80610587,-0.07259796,Ulva flexuosa,Flexuous Gutweed,Plantae
+2025-11-01,research,"Brighton BN2, UK",50.8061336,-0.07259896,Patella,Patella Limpets,Mollusca
+2025-11-01,needs_id,"Greenways, Brighton and Hove, Brighton BN2 7BS, UK",50.8062279642,-0.0718862191,Actinia,,Animalia
+2025-11-01,research,"Greenways, Brighton and Hove, Brighton BN2 7BS, UK",50.8060960508,-0.0724006548,Steromphala umbilicalis,Purple Topshell,Mollusca
+2025-11-01,research,"Brighton BN2, UK",50.80610836,-0.07268995,Palmaria palmata,Dulse,Plantae
+2025-11-01,research,"Brighton BN2, UK",50.80609763,-0.07268778,Actinia fragacea,Strawberry Anemone,Animalia
+2025-11-01,research,"Brighton BN2, UK",50.80610003,-0.07268709,Carcinus maenas,European Green Crab,Animalia
+2025-11-01,research,"Brighton BN2, UK",50.8058715357,-0.0726425879,Steromphala umbilicalis,Purple Topshell,Mollusca
+2025-11-01,research,"Brighton BN2, UK",50.8062724582,-0.0726881996,Lepidochitona cinerea,Grey Mail-shell,Mollusca
+2025-11-01,research,"Brighton BN2, UK",50.8058755105,-0.0724263911,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-11-01,research,"Greenways, Brighton and Hove, Brighton BN2, UK",50.8063104,-0.0711515,Nucella lapillus,Atlantic Dogwhelk,Mollusca
+2025-11-01,research,"Brighton BN2, UK",50.8062277523,-0.0726798177,Lithophyllum incrustans,Pink Plate Weeds,Plantae
+2025-11-01,research,"Brighton BN2, UK",50.806306782,-0.0725856051,Necora puber,Velvet Swimming Crab,Animalia
+2025-11-01,research,"Brighton BN2, UK",50.8058529614,-0.0727979364,Actinia fragacea,Strawberry Anemone,Animalia
+2025-11-01,research,"Brighton BN2, UK",50.8064057279,-0.0728370622,Ciliata mustela,Five-bearded Rockling,Actinopterygii
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.8060236283,-0.0721661183,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-11-01,research,"North Atlantic Ocean, Brighton, England, GB",50.806,-0.0723278333,Phorcus lineatus,Lined Top Shell,Mollusca
+2025-11-01,research,"Brighton BN2, UK",50.80598922,-0.07274606,Anemonia viridis,snakelocks anemone,Animalia
+2025-11-01,research,"North Atlantic Ocean, Brighton, England, GB",50.8060351586,-0.0723241886,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.8062826691,-0.0712271976,Anemonia viridis,snakelocks anemone,Animalia
+2025-11-01,research,"Brighton BN2, UK",50.8059541203,-0.072678835,Anemonia viridis,snakelocks anemone,Animalia
+2025-11-01,research,"Brighton BN2, UK",50.8062218198,-0.0723529235,Lipophrys pholis,Shanny,Actinopterygii
+2025-11-01,research,"Greenways, Ovingdean, Brighton and Hove, Brighton BN2 7BS, UK",50.8060792269,-0.0717098638,Phorcus lineatus,Lined Top Shell,Mollusca
+2025-11-01,research,"Greenways, Brighton and Hove, Brighton BN2, UK",50.8063134,-0.0711498,Actinia fragacea,Strawberry Anemone,Animalia
+2025-11-01,needs_id,"Brighton BN2, UK",50.805818194,-0.0721551105,Polychaeta,Polychaete Worms,Animalia
+2025-11-01,research,"Greenways, Brighton and Hove, Brighton BN2, UK",50.8059669321,-0.0716391206,Nucella lapillus,Atlantic Dogwhelk,Mollusca
+2025-11-01,research,"North Atlantic Ocean, Brighton, England, GB",50.8059083333,-0.0722166667,Lipophrys pholis,Shanny,Actinopterygii
+2025-11-01,needs_id,"North Atlantic Ocean, Brighton, England, GB",50.8058916667,-0.0722195,Lipophrys pholis,Shanny,Actinopterygii
+2025-11-01,research,"North Atlantic Ocean, Brighton, England, GB",50.8058783333,-0.0722166667,Carcinus maenas,European Green Crab,Animalia
+2025-11-01,research,"North Atlantic Ocean, Brighton, England, GB",50.8058939617,-0.0722175944,Carcinus maenas,European Green Crab,Animalia
+2025-11-01,research,"Greenways, Brighton and Hove, Brighton BN2, UK",50.8063134,-0.0711498,Phorcus lineatus,Lined Top Shell,Mollusca
+2025-11-01,research,"Greenways, Ovingdean, Brighton and Hove, Brighton BN2 7BS, UK",50.8064432,-0.0699238,Aeolidia filomenae,,Mollusca
+2025-11-01,research,"Brighton BN2, UK",50.8061711814,-0.0730224699,Macropodia rostrata,Long-legged Spider Crab,Animalia
+2025-11-01,needs_id,"Greenways, Brighton and Hove, Ovingdean BN2 7BS, UK",50.8057946,-0.0677747,Lepidochitona cinerea,Grey Mail-shell,Mollusca
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.805760736,-0.0726014308,Sargassum muticum,Japanese Wireweed,Chromista
+2025-11-01,research,"Beacon Hill, Brighton and Hove, Brighton BN2 7BA, UK",50.8063642003,-0.0723224133,Elysia viridis,Sap-sucking Slug,Mollusca
+2025-11-01,needs_id,"Brighton BN2, UK",50.8061083333,-0.0725333333,Patella,Patella Limpets,Mollusca
+2025-11-01,needs_id,"Greenways, Ovingdean, Brighton and Hove, Brighton BN2 7BS, UK",50.8058383333,-0.07189,,,
+2025-11-01,research,"Greenways, Ovingdean, Brighton and Hove, Brighton BN2 7BS, UK",50.8060233333,-0.0720583333,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-11-01,research,"Brighton BN2, UK",50.806135,-0.0726683333,Corallina officinalis,Common Coralline,Plantae
+2025-11-01,research,"Brighton BN2, UK",50.806195,-0.0724716667,Fucus vesiculosus,bladder wrack,Chromista
+2025-11-01,research,"Greenways, Brighton and Hove, Brighton BN2 7BS, UK",50.8061066667,-0.07244,Phorcus lineatus,Lined Top Shell,Mollusca
+2025-11-01,research,"Brighton BN2, UK",50.8058983333,-0.0723633333,Steromphala umbilicalis,Purple Topshell,Mollusca
+2025-11-01,research,"Brighton BN2, UK",50.80604,-0.0721983333,Chorda filum,Mermaid's Tresses,Chromista
+2025-11-01,research,"Brighton BN2, UK",50.8059066667,-0.0722466667,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-11-01,research,"The Cliffs, Brighton and Hove, Brighton BN2 7BA, UK",50.8063639885,-0.0723240897,Symphodus melops,Corkwing Wrasse,Actinopterygii
+2025-11-01,research,"Brighton BN2, UK",50.80606327,-0.07244547,Ulva intestinalis,Gutweed,Plantae
+2025-11-01,research,"Brighton BN2, UK",50.80603124,-0.07235964,Anemonia viridis,snakelocks anemone,Animalia
+2025-11-01,research,"Brighton BN2, UK",50.8060121,-0.07233711,Phorcus lineatus,Lined Top Shell,Mollusca
+2025-11-01,research,"Brighton BN2, UK",50.80597205,-0.07234811,Phorcus lineatus,Lined Top Shell,Mollusca
+2025-11-01,research,"Brighton BN2, UK",50.80591144,-0.07243555,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-11-01,needs_id,"Brighton BN2, UK",50.80606338,-0.07248386,Ceratophyllum demersum,rigid hornwort,Plantae
+2025-11-01,research,"Brighton BN2, UK",50.8061422,-0.07264342,Necora puber,Velvet Swimming Crab,Animalia
+2025-11-01,research,"Brighton BN2, UK",50.80628585,-0.07298572,Phorcus lineatus,Lined Top Shell,Mollusca
+2025-11-01,research,"Brighton BN2, UK",50.80607805,-0.07308719,Sargassum muticum,Japanese Wireweed,Chromista
+2025-11-01,research,"Brighton BN2, UK",50.80603075,-0.0732057,Buccinum undatum,Common Whelk,Mollusca
+2025-11-01,research,"Brighton BN2, UK",50.80612389,-0.07320492,Patella vulgata,Common European Limpet,Mollusca
+2025-11-01,research,"Brighton BN2, UK",50.80621703,-0.07311009,Lepidochitona cinerea,Grey Mail-shell,Mollusca
+2025-11-01,needs_id,"Greenways, Brighton and Hove, Brighton BN2, UK",50.806307,-0.0711518,Ceratophyllum demersum,rigid hornwort,Plantae
+2025-11-01,research,"Brighton BN2, UK",50.8062828401,-0.0726358965,Hippolyte varians,Chamaeleon Prawn,Animalia
+2025-11-01,needs_id,"Brighton BN2, UK",50.8063449197,-0.0721564516,Rhodophyta,red algae,Plantae
+2025-11-01,research,"Greenways, Ovingdean, Brighton and Hove, Brighton BN2 7BS, UK",50.8063866591,-0.072269775,Scyliorhinus canicula,Small-spotted Catshark,Animalia
+2025-11-01,research,"Greenways, Ovingdean, Brighton and Hove, Brighton BN2 7BS, UK",50.8063360209,-0.0722218305,Electra pilosa,Hairy Sea-mat,Animalia
+2025-11-01,research,"Brighton and Hove, England, GB",50.8060853714,-0.0715029985,Corallina officinalis,Common Coralline,Plantae
+2025-11-01,research,"Greenways, Ovingdean, Brighton and Hove, Brighton BN2 7BS, UK",50.8063633528,-0.0722308829,Sepia officinalis,European Common Cuttlefish,Mollusca
+2025-11-01,research,"Brighton BN2, UK",50.8062786026,-0.0725916401,Gobius paganellus,Rock Goby,Actinopterygii
+2025-11-01,research,"Brighton BN2, UK",50.8061707576,-0.0729912892,Palaemon elegans,Rockpool Prawn,Animalia
+2025-11-01,research,"Greenways, Ovingdean, Brighton and Hove, Brighton BN2 7BS, UK",50.8061093134,-0.0719086826,Symphodus melops,Corkwing Wrasse,Actinopterygii
+2025-11-01,research,"North Atlantic Ocean, Brighton, England, GB",50.80595,-0.0722445,Anemonia viridis,snakelocks anemone,Animalia
+2025-11-01,research,"North Atlantic Ocean, Brighton, England, GB",50.8058916667,-0.0722083333,Lipophrys pholis,Shanny,Actinopterygii
+2025-11-01,research,"North Atlantic Ocean, Brighton, England, GB",50.8059916667,-0.0722278333,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-11-01,research,"North Atlantic Ocean, Brighton, England, GB",50.8059466667,-0.0722388333,Phorcus lineatus,Lined Top Shell,Mollusca
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.8061768275,-0.0726458186,Crepidula fornicata,Common Slipper Limpet,Mollusca
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.8061817954,-0.0726493937,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.8060734161,-0.0727503095,Buccinum undatum,Common Whelk,Mollusca
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.8062896574,-0.0711120832,Littorina obtusata,Flat Periwinkle,Mollusca
+2025-11-01,needs_id,"Undercliff Walk, Brighton, England, GB",50.8059610517,-0.0729565087,Ulva,Sea Lettuces,Plantae
+2025-11-01,needs_id,"Undercliff Walk, Brighton, England, GB",50.805985519,-0.0729298498,Rhodophyta,red algae,Plantae
+2025-11-01,needs_id,"Undercliff Walk, Brighton, England, GB",50.8059724587,-0.0729233199,Rhodymeniophycidae,,Plantae
+2025-11-01,needs_id,"Undercliff Walk, Brighton, England, GB",50.8060720644,-0.0729022423,Plantae,Plants,Plantae
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.8061281618,-0.0729055798,Ostrea edulis,Native oyster,Mollusca
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.8061676146,-0.07299709,Phorcus lineatus,Lined Top Shell,Mollusca
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.8062894048,-0.0711275683,Fucus serratus,Saw Wrack,Chromista
+2025-11-01,research,"Greenways, Brighton and Hove, Brighton BN2, UK",50.8060353684,-0.071429573,Scyliorhinus canicula,Small-spotted Catshark,Animalia
+2025-11-01,needs_id,"Undercliff Walk, Brighton, England, GB",50.8060619561,-0.0726763458,Acanthocardia,,Mollusca
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.8060213746,-0.0726582066,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.80613684,-0.0725751096,Nucella lapillus,Atlantic Dogwhelk,Mollusca
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.8060671723,-0.0724113236,Actinia fragacea,Strawberry Anemone,Animalia
+2025-11-01,needs_id,"Undercliff Walk, Brighton, England, GB",50.8060827826,-0.0724759181,Mollusca,Molluscs,Mollusca
+2025-11-01,needs_id,"Undercliff Walk, Brighton, England, GB",50.8060925119,-0.0722483687,Ulva,Sea Lettuces,Plantae
+2025-11-01,needs_id,"Undercliff Walk, Brighton, England, GB",50.8060893021,-0.0723333174,Fucophycidae,,Chromista
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.806058012,-0.0723325559,Fucus serratus,Saw Wrack,Chromista
+2025-11-01,needs_id,"Undercliff Walk, Brighton, England, GB",50.8059869875,-0.0722569184,Rhodymeniophycidae,,Plantae
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.8060283846,-0.0725186227,Phorcus lineatus,Lined Top Shell,Mollusca
+2025-11-01,needs_id,"Undercliff Walk, Brighton, England, GB",50.806004864,-0.0729343661,Fucophycidae,,Chromista
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.8061458509,-0.0728650647,Steromphala umbilicalis,Purple Topshell,Mollusca
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.8061056128,-0.0727078966,Pholas dactylus,Common piddock,Mollusca
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.8060531452,-0.0726657587,Magallana gigas,Pacific Oyster,Mollusca
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.8060200247,-0.0724265435,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.8060071101,-0.0723422761,Phorcus lineatus,Lined Top Shell,Mollusca
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.8061123867,-0.0723184001,Steromphala umbilicalis,Purple Topshell,Mollusca
+2025-11-01,research,"Marine Drive, Brighton, England, GB",50.8060624508,-0.0723469808,Steromphala umbilicalis,Purple Topshell,Mollusca
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.8060929889,-0.0722389036,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-11-01,needs_id,United Kingdom,50.8063680141,-0.0725483894,Spirorbinae,Spiral Tube Worms,Animalia
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.8059289677,-0.0720631845,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.8058697141,-0.0722216844,Actinia fragacea,Strawberry Anemone,Animalia
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.8058579063,-0.0722670482,Chondrus crispus,Irish Moss,Plantae
+2025-11-01,needs_id,"Undercliff Walk, Brighton, England, GB",50.8058223692,-0.0722149964,Cryptosula pallasiana,Keyhole Bryozoan,Animalia
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.8060489801,-0.0722588127,Phorcus lineatus,Lined Top Shell,Mollusca
+2025-11-01,needs_id,"Undercliff Walk, Brighton, England, GB",50.8060320293,-0.072678404,Fungi,Fungi Including Lichens,Fungi
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.8060675825,-0.0726565489,Nucella lapillus,Atlantic Dogwhelk,Mollusca
+2025-11-01,needs_id,"Brighton BN2, UK",50.8062544487,-0.0723780692,Semibalanus balanoides,Northern Acorn Barnacle,Animalia
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.806055674,-0.0723248179,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.8061021658,-0.0725321746,Steromphala umbilicalis,Purple Topshell,Mollusca
+2025-11-01,research,"Undercliff Walk, Brighton, England, GB",50.8059841964,-0.0726011081,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-11-01,needs_id,"Undercliff Walk, Brighton, England, GB",50.8062044273,-0.0731829106,Bryozoa,Bryozoans,Animalia
+2025-11-01,needs_id,"Undercliff Walk, Brighton, England, GB",50.8060879107,-0.0728952979,Macropodia rostrata,Long-legged Spider Crab,Animalia
+2025-11-01,research,"Greenways, Brighton and Hove, Brighton BN2, UK",50.8051749282,-0.0710681453,Crepidula fornicata,Common Slipper Limpet,Mollusca
+2025-11-01,needs_id,"Greenways, Brighton and Hove, Brighton BN2, UK",50.8051749282,-0.0710681453,Rhodophyta,red algae,Plantae
+2025-11-01,needs_id,"Greenways, Brighton and Hove, Brighton BN2, UK",50.8051749282,-0.0710681453,Anthozoa,Sea Anemones and Corals,Animalia
+2025-11-01,research,"Greenways, Brighton and Hove, Brighton BN2, UK",50.8051749282,-0.0710681453,Anemonia viridis,snakelocks anemone,Animalia
+2025-11-01,needs_id,"Greenways, Brighton and Hove, Brighton BN2, UK",50.8051749282,-0.0710681453,Patella,Patella Limpets,Mollusca
+2025-11-01,research,"Greenways, Brighton and Hove, Brighton BN2, UK",50.8051749282,-0.0710681453,Scyliorhinus canicula,Small-spotted Catshark,Animalia
+2025-11-01,research,"Greenways, Brighton and Hove, Brighton BN2, UK",50.8051749282,-0.0710681453,Actinia fragacea,Strawberry Anemone,Animalia
+2025-11-01,needs_id,"Greenways, Brighton and Hove, Brighton BN2, UK",50.8051749282,-0.0710681453,Rhodophyta,red algae,Plantae
+2025-11-01,needs_id,"Greenways, Brighton and Hove, Brighton BN2, UK",50.8051749282,-0.0710681453,,,
+2025-11-01,research,"Greenways, Brighton and Hove, Brighton BN2, UK",50.8051749282,-0.0710681453,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-12-13,research,"North Atlantic Ocean, Brighton, England, GB",50.8058606982,-0.0723503464,Actinia fragacea,Strawberry Anemone,Animalia
+2025-12-13,needs_id,"North Atlantic Ocean, Brighton, England, GB",50.8060001672,-0.0723001611,Steromphala,,Mollusca
+2025-12-13,research,"North Atlantic Ocean, Brighton, England, GB",50.8059908204,-0.0722824725,Fucus serratus,Saw Wrack,Chromista
+2025-12-13,research,"Brighton BN2, UK",50.8059540158,-0.0723819248,Steromphala umbilicalis,Purple Topshell,Mollusca
+2025-12-13,research,"North Atlantic Ocean, Brighton, England, GB",50.8058868401,-0.0724340824,Patella vulgata,Common European Limpet,Mollusca
+2025-12-13,needs_id,"North Atlantic Ocean, Brighton, England, GB",50.8058814902,-0.0724658851,Grateloupia turuturu,Devil's Tongue Weed,Plantae
+2025-12-13,needs_id,"Brighton BN2, UK",50.80591638,-0.07243044,Vertebrata lanosa,Wrack Siphon Weed,Plantae
+2025-12-13,research,"South Downs National Park, Brighton and Hove, England, GB",50.8058665152,-0.0725001323,Actinia fragacea,Strawberry Anemone,Animalia
+2025-12-13,research,"Brighton BN2, UK",50.805916,-0.07262715,Actinia fragacea,Strawberry Anemone,Animalia
+2025-12-13,research,"North Atlantic Ocean, Brighton, England, GB",50.805863717,-0.0724812699,Lepidochitona cinerea,Grey Mail-shell,Mollusca
+2025-12-13,research,"Brighton BN2, UK",50.80597414,-0.07270151,Phorcus lineatus,Lined Top Shell,Mollusca
+2025-12-13,needs_id,"Brighton BN2, UK",50.80590257,-0.07273394,Spirobranchus triqueter,Keeled Tubeworm,Animalia
+2025-12-13,research,"Brighton BN2, UK",50.80593208,-0.07273765,Nucella lapillus,Atlantic Dogwhelk,Mollusca
+2025-12-13,research,"Undercliff Walk, Brighton, England, GB",50.8059301883,-0.0720933862,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-12-13,needs_id,"Brighton BN2, UK",50.80592561,-0.07279826,Chlorophyta,green algae,Plantae
+2025-12-13,research,"Brighton BN2, UK",50.80600124,-0.0728483,Carcinus maenas,European Green Crab,Animalia
+2025-12-13,research,"Brighton BN2, UK",50.80596364,-0.07309475,Cancer pagurus,Edible Crab,Animalia
+2025-12-13,research,"Brighton BN2, UK",50.80597416,-0.07286763,Porcellana platycheles,Hairy Porcelain Crab,Animalia
+2025-12-13,research,"Brighton BN2, UK",50.80587697,-0.07300614,Lanice conchilega,Sand Mason Worm,Animalia
+2025-12-13,needs_id,"North Atlantic Ocean, Brighton, England, GB",50.805790378,-0.0726065654,Cryptosula,,Animalia
+2025-12-13,needs_id,"South Downs National Park, Brighton, England, GB",50.8057607723,-0.0727217543,Lepidochitona,,Mollusca
+2025-12-13,needs_id,"South Downs National Park, Brighton, England, GB",50.8057428956,-0.0726381966,Lepidochitona,,Mollusca
+2025-12-13,research,"Brighton BN2, UK",50.80591087,-0.07304545,Rhodothamniella floridula,sand binder,Plantae
+2025-12-13,research,"North Atlantic Ocean, Brighton, England, GB",50.8057933984,-0.0726464707,Steromphala umbilicalis,Purple Topshell,Mollusca
+2025-12-13,research,"Brighton BN2, UK",50.80584303,-0.0732979,Ascophyllum nodosum,Knotted Wrack,Chromista
+2025-12-13,research,"Brighton BN2, UK",50.80610003,-0.07339666,Littorina littorea,Common Periwinkle,Mollusca
+2025-12-13,research,"North Atlantic Ocean, Brighton, England, GB",50.806304781,-0.071168447,Lanice conchilega,Sand Mason Worm,Animalia
+2025-12-13,needs_id,"South Downs National Park, Brighton, England, GB",50.8056828832,-0.0726212645,Chondrus crispus,Irish Moss,Plantae
+2025-12-13,needs_id,"North Atlantic Ocean, Brighton, England, GB",50.8058165204,-0.0727562322,Buccinum undatum,Common Whelk,Mollusca
+2025-12-13,research,"South Downs National Park, Brighton, England, GB",50.8058191254,-0.072751794,Ascophyllum nodosum,Knotted Wrack,Chromista
+2025-12-13,research,"Brighton BN2, UK",50.8058139123,-0.072403634,Anemonia viridis,snakelocks anemone,Animalia
+2025-12-13,needs_id,"North Atlantic Ocean, Brighton, England, GB",50.8058945891,-0.0727057316,Ulva,Sea Lettuces,Plantae
+2025-12-13,research,"North Atlantic Ocean, Brighton, England, GB",50.8059819371,-0.072532443,Patella vulgata,Common European Limpet,Mollusca
+2025-12-13,research,"North Atlantic Ocean, Brighton, England, GB",50.8059811216,-0.0725233235,Steromphala umbilicalis,Purple Topshell,Mollusca
+2025-12-13,research,"North Atlantic Ocean, Brighton, England, GB",50.8059832955,-0.0725257239,Fucus serratus,Saw Wrack,Chromista
+2025-12-13,research,"North Atlantic Ocean, Brighton, England, GB",50.8059593642,-0.0724914394,Nucella lapillus,Atlantic Dogwhelk,Mollusca
+2025-12-13,research,"North Atlantic Ocean, Brighton, England, GB",50.8063107882,-0.071194675,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-12-13,research,"South Downs National Park, Brighton and Hove, England, GB",50.8059214266,-0.0724199826,Actinia fragacea,Strawberry Anemone,Animalia
+2025-12-13,research,"Brighton BN2, UK",50.8058191929,-0.0727951527,Porcellana platycheles,Hairy Porcelain Crab,Animalia
+2025-12-13,research,"North Atlantic Ocean, Brighton, England, GB",50.8059784967,-0.0722199486,Anemonia viridis,snakelocks anemone,Animalia
+2025-12-13,research,"Undercliff Walk, Brighton, England, GB",50.8061047801,-0.0730226327,Carcinus maenas,European Green Crab,Animalia
+2025-12-13,research,"Undercliff Walk, Brighton, England, GB",50.8060627511,-0.072972325,Buccinum undatum,Common Whelk,Mollusca
+2025-12-13,research,"Undercliff Walk, Brighton, England, GB",50.8060907172,-0.0729766527,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-12-13,research,"Undercliff Walk, Brighton, England, GB",50.8060907172,-0.0729766527,Elysia viridis,Sap-sucking Slug,Mollusca
+2025-12-13,research,"Undercliff Walk, Brighton, England, GB",50.8060907172,-0.0729766527,Hippolyte varians,Chamaeleon Prawn,Animalia
+2025-12-13,research,"Undercliff Walk, Brighton, England, GB",50.8060907172,-0.0729766527,Symphodus melops,Corkwing Wrasse,Actinopterygii
+2025-12-13,research,"Undercliff Walk, Brighton, England, GB",50.8060907172,-0.0729766527,Steromphala umbilicalis,Purple Topshell,Mollusca
+2025-12-13,research,"Undercliff Walk, Brighton, England, GB",50.8060907172,-0.0729766527,Porcellana platycheles,Hairy Porcelain Crab,Animalia
+2025-12-13,research,"Undercliff Walk, Brighton, England, GB",50.8060907172,-0.0729766527,Lipophrys pholis,Shanny,Actinopterygii
+2025-12-13,research,"Undercliff Walk, Brighton, England, GB",50.8060907172,-0.0729766527,Fucus serratus,Saw Wrack,Chromista
+2025-12-13,needs_id,"Undercliff Walk, Brighton, England, GB",50.8060907172,-0.0729766527,Ulva,Sea Lettuces,Plantae
+2025-12-13,research,"Undercliff Walk, Brighton, England, GB",50.8060907172,-0.0729766527,Corallina officinalis,Common Coralline,Plantae
+2025-12-13,needs_id,"Undercliff Walk, Brighton, England, GB",50.8060907172,-0.0729766527,Patella vulgata,Common European Limpet,Mollusca
+2025-12-13,needs_id,"Undercliff Walk, Brighton, England, GB",50.8060907172,-0.0729766527,Fucales,Fucoids,Chromista
+2025-12-13,research,"Greenways, Ovingdean, Brighton and Hove, Brighton BN2 7BS, UK",50.80619489,-0.07179475,Acanthochitona crinita,Bristly Mail-shell,Mollusca
+2025-12-13,research,"Brighton BN2, UK",50.806111,-0.073367,Psammechinus miliaris,Green Sea Urchin,Animalia
+2025-12-13,research,"Undercliff Walk, Brighton, England, GB",50.8060907172,-0.0729766527,Actinia fragacea,Strawberry Anemone,Animalia
+2025-12-13,research,"Undercliff Walk, Brighton, England, GB",50.8060907172,-0.0729766527,Psammechinus miliaris,Green Sea Urchin,Animalia
+2025-12-13,research,"Marine Drive, Brighton, England, GB",50.8061727497,-0.0738407411,Lepidochitona cinerea,Grey Mail-shell,Mollusca
+2025-12-13,research,"Undercliff Walk, Brighton, England, GB",50.8060785183,-0.0736245642,Anemonia viridis,snakelocks anemone,Animalia
+2025-12-13,research,"Brighton and Hove, England, GB",50.8060785183,-0.0736245642,Fucus vesiculosus,bladder wrack,Chromista
+2025-12-13,needs_id,"Undercliff Walk, Brighton, England, GB",50.8060785183,-0.0736245642,Palaemon elegans,Rockpool Prawn,Animalia
+2025-12-13,needs_id,"Undercliff Walk, Brighton, England, GB",50.8060785183,-0.0736245642,Leptoplana,,Animalia
+2025-12-13,needs_id,"Undercliff Walk, Brighton, England, GB",50.8061378191,-0.0735118153,Animalia,Animals,Animalia
+2025-12-13,research,"Undercliff Walk, Brighton, England, GB",50.8061454794,-0.0737792178,Necora puber,Velvet Swimming Crab,Animalia
+2025-12-13,research,"Undercliff Walk, Brighton, England, GB",50.8060977421,-0.0737379927,Cancer pagurus,Edible Crab,Animalia
+2025-12-13,research,Ovingdean Big Rock Pool Challenge Hub,50.8057845263,-0.071782937,Corvus corax,Common Raven,Aves
+2025-12-13,research,"Brighton BN2, UK",50.805638945,-0.0725262612,Styela clava,Stalked Sea Squirt,Animalia
+2025-12-13,research,"Brighton BN2, UK",50.8056961522,-0.0724836811,Sargassum muticum,Japanese Wireweed,Chromista
+2025-12-13,needs_id,United Kingdom,50.8046649281,-0.0734844804,Halopteris,,Chromista
+2025-12-13,research,"Undercliff Walk, Brighton, England, GB",50.8064390631,-0.0723387483,Austrominius modestus,Beaked Barnacle,Animalia
+2025-12-13,research,"Undercliff Walk, Brighton, England, GB",50.8062245424,-0.0716099348,Porcellana platycheles,Hairy Porcelain Crab,Animalia
+2025-12-13,research,"Undercliff Walk, Brighton, England, GB",50.8062300579,-0.0716670024,Steromphala umbilicalis,Purple Topshell,Mollusca
+2025-12-13,research,"Undercliff Walk, Brighton, England, GB",50.8062237094,-0.0716798258,Lepidochitona cinerea,Grey Mail-shell,Mollusca
+2025-12-13,research,"Undercliff Walk, Brighton, England, GB",50.8057866667,-0.0725888333,Lipophrys pholis,Shanny,Actinopterygii
+2025-12-13,research,"Undercliff Walk, Brighton, England, GB",50.8062096344,-0.0716320578,Pholas dactylus,Common piddock,Mollusca
+2025-11-01,needs_id,"Undercliff Walk, Brighton, England, GB",50.8058554216,-0.0724834042,Fungi,Fungi Including Lichens,Fungi
+2025-12-13,research,"Undercliff Walk, Brighton, England, GB",50.8062578366,-0.0717122354,Actinia fragacea,Strawberry Anemone,Animalia
+2025-12-13,research,"Brighton and Hove, England, GB",50.8060004835,-0.0727203135,Fucus serratus,Saw Wrack,Chromista
+2025-12-13,research,"Brighton and Hove, England, United Kingdom",50.8060004835,-0.0727203135,Steromphala umbilicalis,Purple Topshell,Mollusca
+2025-12-13,research,"Brighton and Hove, England, GB",50.8060004835,-0.0727203135,Crepidula fornicata,Common Slipper Limpet,Mollusca
+2025-12-13,research,"Brighton and Hove, England, United Kingdom",50.8060004835,-0.0727203135,Actinia equina,Atlantic Beadlet Anemone,Animalia
+2025-12-13,research,"Brighton and Hove, England, GB",50.8060004835,-0.0727203135,Necora puber,Velvet Swimming Crab,Animalia
+2025-12-13,research,"Brighton and Hove, England, GB",50.8060004835,-0.0727203135,Dendrodoa grossularia,Baked Bean Ascidian,Animalia
+2025-12-13,research,"Brighton and Hove, England, GB",50.8060004835,-0.0727203135,Steromphala umbilicalis,Purple Topshell,Mollusca
+2025-12-13,research,"Brighton and Hove, England, GB",50.8060004835,-0.0727203135,Palaemon serratus,Common Prawn,Animalia
+2025-12-13,research,"Brighton and Hove, England, GB",50.8060004835,-0.0727203135,Actinia fragacea,Strawberry Anemone,Animalia
+2025-12-13,research,"Ovingdean, Brighton and Hove, Brighton BN2, UK",50.8062800804,-0.0727222867,Psammechinus miliaris,Green Sea Urchin,Animalia
+2025-12-13,research,"Brighton and Hove, England, GB",50.8062800804,-0.0727222867,Porcellana platycheles,Hairy Porcelain Crab,Animalia
+2025-12-13,needs_id,"Brighton and Hove, England, GB",50.8062800804,-0.0727222867,Mysidae,,Animalia
+2025-12-13,needs_id,"Brighton and Hove, England, GB",50.8062800804,-0.0727222867,Acanthochitona crinita,Bristly Mail-shell,Mollusca
+2025-12-13,research,"Brighton BN2, UK",50.8061083333,-0.0735138889,Berthella plumula,Side-gilled Seaslug,Mollusca
+2025-12-13,research,"Brighton BN2, UK",50.8061666667,-0.0733166667,Lipophrys pholis,Shanny,Actinopterygii
+2025-12-13,research,"Brighton BN2, UK",50.8061666667,-0.0736,Corella eumyota,Orange-tipped Sea Squirt,Animalia
+2025-12-13,research,"Brighton BN2, UK",50.8060944444,-0.0734027778,Grateloupia turuturu,Devil's Tongue Weed,Plantae

@@ -1,0 +1,218 @@
+site,date,hi/lo,time (UTC),height (m),nearest location
+SHO,2025-10-04,Low,04:56,1.5,Southend-on-Sea
+SHO,2025-10-04,High,11:03,5.01,Southend-on-Sea
+SHO,2025-10-04,Low,17:31,0.92,Southend-on-Sea
+SHO,2025-10-04,High,23:31,5.39,Southend-on-Sea
+SHO,2025-11-09,High,02:26,5.67,Southend-on-Sea
+SHO,2025-11-09,Low,08:57,0.65,Southend-on-Sea
+SHO,2025-11-09,High,14:46,6,Southend-on-Sea
+SHO,2025-11-09,Low,20:54,1.05,Southend-on-Sea
+SHO,2025-12-14,Low,01:17,1.74,Southend-on-Sea
+SHO,2025-12-14,High,07:49,4.84,Southend-on-Sea
+SHO,2025-12-14,Low,14:04,1.1,Southend-on-Sea
+SHO,2025-12-14,High,20:27,4.87,Southend-on-Sea
+BEA,2025-10-12,Low,00:26,0.98,North Sunderland (Northumberland)
+BEA,2025-10-12,High,06:49,4.72,North Sunderland (Northumberland)
+BEA,2025-10-12,Low,12:52,1.32,North Sunderland (Northumberland)
+BEA,2025-10-12,High,19:12,4.43,North Sunderland (Northumberland)
+BEA,2025-11-18,High,01:07,4.52,North Sunderland (Northumberland)
+BEA,2025-11-18,Low,07:14,1.15,North Sunderland (Northumberland)
+BEA,2025-11-18,High,13:31,4.5,North Sunderland (Northumberland)
+BEA,2025-11-18,Low,19:30,1.33,North Sunderland (Northumberland)
+BEA,2025-12-06,High,02:54,5.12,North Sunderland (Northumberland)
+BEA,2025-12-06,Low,09:06,0.91,North Sunderland (Northumberland)
+BEA,2025-12-06,High,15:15,5.03,North Sunderland (Northumberland)
+BEA,2025-12-06,Low,21:35,0.69,North Sunderland (Northumberland)
+CAS,2024-10-19,Low,01:27,0.13,Falmouth
+CAS,2024-10-19,High,07:06,5.45,Falmouth
+CAS,2024-10-19,Low,13:47,0.16,Falmouth
+CAS,2024-10-19,High,19:26,5.48,Falmouth
+CAS,2024-11-16,High,04:59,5.28,Falmouth
+CAS,2024-11-16,Low,11:43,0.36,Falmouth
+CAS,2024-11-16,High,17:21,5.29,Falmouth
+CAS,2024-12-14,High,03:53,4.89,Falmouth
+CAS,2024-12-14,Low,10:33,0.78,Falmouth
+CAS,2024-12-14,High,16:17,4.91,Falmouth
+CAS,2024-12-14,Low,22:58,0.72,Falmouth
+CAS,2025-01-18,Low,02:15,0.88,Falmouth
+CAS,2025-01-18,High,07:52,5,Falmouth
+CAS,2025-01-18,Low,14:36,0.87,Falmouth
+CAS,2025-01-18,High,20:13,4.61,Falmouth
+CAS,2025-02-15,Low,01:22,0.58,Falmouth
+CAS,2025-02-15,High,06:55,5.14,Falmouth
+CAS,2025-02-15,Low,13:41,0.55,Falmouth
+CAS,2025-02-15,High,19:14,4.87,Falmouth
+CAS,2025-03-15,Low,00:25,0.5,Falmouth
+CAS,2025-03-15,High,05:55,5.11,Falmouth
+CAS,2025-03-15,Low,12:44,0.43,Falmouth
+CAS,2025-03-15,High,18:14,4.96,Falmouth
+CAS,2025-04-12,Low,00:20,0.67,Falmouth
+CAS,2025-04-12,High,05:50,4.94,Falmouth
+CAS,2025-04-12,Low,12:39,0.55,Falmouth
+CAS,2025-04-12,High,18:09,4.89,Falmouth
+CAS,2025-05-17,Low,02:44,1.13,Falmouth
+CAS,2025-05-17,High,08:40,4.41,Falmouth
+CAS,2025-05-17,Low,14:58,1.28,Falmouth
+CAS,2025-05-17,High,20:53,4.57,Falmouth
+CAS,2025-06-14,Low,02:04,1,Falmouth
+CAS,2025-06-14,High,07:58,4.57,Falmouth
+CAS,2025-06-14,Low,14:19,1.09,Falmouth
+CAS,2025-06-14,High,20:09,4.8,Falmouth
+CAS,2025-07-12,Low,01:17,0.94,Falmouth
+CAS,2025-07-12,High,07:08,4.7,Falmouth
+CAS,2025-07-12,Low,13:34,0.95,Falmouth
+CAS,2025-07-12,High,19:19,5,Falmouth
+CAS,2025-08-09,Low,00:18,0.97,Falmouth
+CAS,2025-08-09,High,06:08,4.76,Falmouth
+CAS,2025-08-09,Low,12:38,0.93,Falmouth
+CAS,2025-08-09,High,18:20,5.12,Falmouth
+CAS,2025-10-18,High,04:08,4.47,Falmouth
+CAS,2025-10-18,Low,10:41,1.19,Falmouth
+CAS,2025-10-18,High,16:18,4.8,Falmouth
+CAS,2025-10-18,Low,23:06,0.87,Falmouth
+CAS,2025-11-08,Low,00:59,0.47,Falmouth
+CAS,2025-11-08,High,06:43,5.31,Falmouth
+CAS,2025-11-08,Low,13:22,0.46,Falmouth
+CAS,2025-11-08,High,19:09,5.06,Falmouth
+CAS,2025-12-06,Low,00:00,0.54,Falmouth
+CAS,2025-12-06,High,05:44,5.26,Falmouth
+CAS,2025-12-06,Low,12:28,0.44,Falmouth
+CAS,2025-12-06,High,18:13,5.05,Falmouth
+EAS,2025-05-20,Low,00:53,2.16,Anstruther Easter
+EAS,2025-05-20,High,07:14,4.32,Anstruther Easter
+EAS,2025-05-20,Low,13:33,1.72,Anstruther Easter
+EAS,2025-05-20,High,20:10,4.29,Anstruther Easter
+EAS,2025-10-11,High,04:35,5.45,Anstruther Easter
+EAS,2025-10-11,Low,10:44,1.06,Anstruther Easter
+EAS,2025-10-11,High,17:03,5.1,Anstruther Easter
+EAS,2025-10-11,Low,23:02,1.1,Anstruther Easter
+EAS,2025-11-08,High,03:32,5.6,Anstruther Easter
+EAS,2025-11-08,Low,09:51,0.93,Anstruther Easter
+EAS,2025-11-08,High,15:57,5.34,Anstruther Easter
+EAS,2025-11-08,Low,22:15,0.79,Anstruther Easter
+EAS,2025-12-06,High,02:32,5.53,Anstruther Easter
+EAS,2025-12-06,Low,08:55,0.96,Anstruther Easter
+EAS,2025-12-06,High,14:55,5.41,Anstruther Easter
+EAS,2025-12-06,Low,21:22,0.66,Anstruther Easter
+KIL,2025-10-18,High,04:33,10.46,Hinkley Point
+KIL,2025-10-18,Low,10:40,2.08,Hinkley Point
+KIL,2025-10-18,High,16:52,10.97,Hinkley Point
+KIL,2025-10-18,Low,23:08,1.74,Hinkley Point
+KIL,2025-11-22,Low,01:19,1.8,Hinkley Point
+KIL,2025-11-22,High,07:29,11.14,Hinkley Point
+KIL,2025-11-22,Low,13:35,1.79,Hinkley Point
+KIL,2025-11-22,High,19:44,10.9,Hinkley Point
+KIL,2025-12-20,Low,00:26,2.06,Hinkley Point
+KIL,2025-12-20,High,06:40,10.86,Hinkley Point
+KIL,2025-12-20,Low,12:46,1.94,Hinkley Point
+KIL,2025-12-20,High,18:57,10.69,Hinkley Point
+LEE,2025-10-18,Low,01:54,1.67,Lee-on-the-Solent
+LEE,2025-10-18,High,10:12,4.33,Lee-on-the-Solent
+LEE,2025-10-18,Low,14:22,1.68,Lee-on-the-Solent
+LEE,2025-10-18,High,22:28,4.16,Lee-on-the-Solent
+LEE,2025-11-01,Low,00:26,1.96,Lee-on-the-Solent
+LEE,2025-11-01,High,07:51,3.97,Lee-on-the-Solent
+LEE,2025-11-01,Low,13:02,1.97,Lee-on-the-Solent
+LEE,2025-11-01,High,20:02,3.91,Lee-on-the-Solent
+LEE,2025-12-13,High,06:03,4.03,Lee-on-the-Solent
+LEE,2025-12-13,Low,11:12,2.06,Lee-on-the-Solent
+LEE,2025-12-13,High,18:19,3.75,Lee-on-the-Solent
+LEE,2025-12-13,Low,23:36,1.95,Lee-on-the-Solent
+MEN,2025-02-12,Low,05:02,1.3,Menai Bridge
+MEN,2025-02-12,High,10:45,7.23,Menai Bridge
+MEN,2025-02-12,Low,17:33,0.87,Menai Bridge
+MEN,2025-02-12,High,23:10,6.93,Menai Bridge
+MEN,2025-03-12,Low,04:06,1.58,Menai Bridge
+MEN,2025-03-12,High,09:48,6.9,Menai Bridge
+MEN,2025-03-12,Low,16:34,1.03,Menai Bridge
+MEN,2025-03-12,High,22:15,6.73,Menai Bridge
+MEN,2025-04-12,Low,04:47,1.18,Menai Bridge
+MEN,2025-04-12,High,10:26,7.01,Menai Bridge
+MEN,2025-04-12,Low,17:08,0.93,Menai Bridge
+MEN,2025-04-12,High,22:45,6.91,Menai Bridge
+MEN,2025-05-18,High,01:44,6.5,Menai Bridge
+MEN,2025-05-18,Low,08:25,1.76,Menai Bridge
+MEN,2025-05-18,High,14:12,6.02,Menai Bridge
+MEN,2025-05-18,Low,20:40,2.15,Menai Bridge
+MEN,2025-10-18,Low,02:58,1.41,Menai Bridge
+MEN,2025-10-18,High,08:48,6.59,Menai Bridge
+MEN,2025-10-18,Low,15:12,1.8,Menai Bridge
+MEN,2025-10-18,High,20:54,6.98,Menai Bridge
+MEN,2025-11-01,Low,00:53,2.1,Menai Bridge
+MEN,2025-11-01,High,06:57,6.06,Menai Bridge
+MEN,2025-11-01,Low,13:19,2.34,Menai Bridge
+MEN,2025-11-01,High,19:02,6.55,Menai Bridge
+MEN,2025-12-13,High,05:20,5.91,Menai Bridge
+MEN,2025-12-13,Low,11:38,2.56,Menai Bridge
+MEN,2025-12-13,High,17:33,6.26,Menai Bridge
+MTB,2024-11-16,High,05:33,5.65,Turnchapel
+MTB,2024-11-16,Low,12:00,0.81,Turnchapel
+MTB,2024-11-16,High,17:55,5.64,Turnchapel
+MTB,2024-12-14,High,04:23,5.32,Turnchapel
+MTB,2024-12-14,Low,10:48,1.34,Turnchapel
+MTB,2024-12-14,High,16:49,5.32,Turnchapel
+MTB,2024-12-14,Low,23:14,1.24,Turnchapel
+MTB,2025-01-18,Low,02:24,1.36,Turnchapel
+MTB,2025-01-18,High,08:24,5.32,Turnchapel
+MTB,2025-01-18,Low,14:47,1.36,Turnchapel
+MTB,2025-01-18,High,20:47,4.97,Turnchapel
+MTB,2025-02-15,Low,01:36,0.94,Turnchapel
+MTB,2025-02-15,High,07:28,5.45,Turnchapel
+MTB,2025-02-15,Low,13:56,0.91,Turnchapel
+MTB,2025-02-15,High,19:48,5.19,Turnchapel
+MTB,2025-03-02,Low,01:58,0.47,Turnchapel
+MTB,2025-03-02,High,08:06,5.69,Turnchapel
+MTB,2025-03-02,Low,14:19,0.49,Turnchapel
+MTB,2025-03-02,High,20:26,5.46,Turnchapel
+MTB,2025-03-15,Low,00:42,0.81,Turnchapel
+MTB,2025-03-15,High,06:28,5.43,Turnchapel
+MTB,2025-03-15,Low,13:01,0.74,Turnchapel
+MTB,2025-03-15,High,18:48,5.27,Turnchapel
+MTB,2025-04-12,High,05:22,5.27,Turnchapel
+MTB,2025-04-12,Low,11:59,0.89,Turnchapel
+MTB,2025-04-12,High,17:43,5.22,Turnchapel
+MTB,2025-05-17,Low,01:56,1.58,Turnchapel
+MTB,2025-05-17,High,08:12,4.8,Turnchapel
+MTB,2025-05-17,Low,14:09,1.76,Turnchapel
+MTB,2025-05-17,High,20:21,4.98,Turnchapel
+MTB,2025-06-14,Low,01:21,1.43,Turnchapel
+MTB,2025-06-14,High,07:30,4.93,Turnchapel
+MTB,2025-06-14,Low,13:34,1.55,Turnchapel
+MTB,2025-06-14,High,19:39,5.16,Turnchapel
+MTB,2025-07-12,Low,00:36,1.32,Turnchapel
+MTB,2025-07-12,High,06:42,5.02,Turnchapel
+MTB,2025-07-12,Low,12:52,1.37,Turnchapel
+MTB,2025-07-12,High,18:53,5.29,Turnchapel
+MTB,2025-08-09,High,05:42,5.04,Turnchapel
+MTB,2025-08-09,Low,12:00,1.32,Turnchapel
+MTB,2025-08-09,High,17:55,5.35,Turnchapel
+MTB,2025-10-18,High,03:35,4.88,Turnchapel
+MTB,2025-10-18,Low,09:45,1.72,Turnchapel
+MTB,2025-10-18,High,15:45,5.16,Turnchapel
+MTB,2025-10-18,Low,22:12,1.38,Turnchapel
+MTB,2025-11-08,Low,01:14,0.9,Turnchapel
+MTB,2025-11-08,High,07:17,5.65,Turnchapel
+MTB,2025-11-08,Low,13:35,0.94,Turnchapel
+MTB,2025-11-08,High,19:43,5.43,Turnchapel
+MTB,2025-12-06,Low,00:18,1.02,Turnchapel
+MTB,2025-12-06,High,06:17,5.65,Turnchapel
+MTB,2025-12-06,Low,12:44,0.94,Turnchapel
+MTB,2025-12-06,High,18:46,5.45,Turnchapel
+OVI,2025-05-23,Low,01:09,1.42,Brighton Marina
+OVI,2025-05-23,High,07:27,5.65,Brighton Marina
+OVI,2025-05-23,Low,13:35,1.25,Brighton Marina
+OVI,2025-05-23,High,19:58,6.01,Brighton Marina
+OVI,2025-07-19,High,04:51,5.54,Brighton Marina
+OVI,2025-07-19,Low,11:22,1.45,Brighton Marina
+OVI,2025-07-19,High,17:31,5.62,Brighton Marina
+OVI,2025-10-18,Low,02:51,1.68,Brighton Marina
+OVI,2025-10-18,High,09:09,5.94,Brighton Marina
+OVI,2025-10-18,Low,15:15,1.53,Brighton Marina
+OVI,2025-10-18,High,21:28,5.87,Brighton Marina
+OVI,2025-11-01,Low,00:55,2.09,Brighton Marina
+OVI,2025-11-01,High,07:16,5.46,Brighton Marina
+OVI,2025-11-01,Low,13:36,1.94,Brighton Marina
+OVI,2025-11-01,High,19:40,5.54,Brighton Marina
+OVI,2025-12-13,High,05:25,5.41,Brighton Marina
+OVI,2025-12-13,Low,11:56,2.15,Brighton Marina
+OVI,2025-12-13,High,17:56,5.08,Brighton Marina

@@ -1,0 +1,802 @@
+species,common_name,functional_group,trophic_group,feeding_mode,primary_food,mobility,body_size,body_form
+Abietinaria,Coarse Sea Fir Hydroids,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium ,Dendroid
+Abietinaria abietina,Hydroid,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium ,Dendroid
+Acanthocardia,Cockles,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Acanthocardia echinata,Prickly Cockle,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Acanthocardia paucicostata,Poorly-ribbed Cockle,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Acanthochitona,Mail-shell,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Medium,Ovoid
+Acanthochitona crinita,Bristly Mail-shell,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Ovoid
+Acanthochitona fascicularis,Velvety Mail-shell,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Medium,Ovoid
+Acanthodoris pilosa,Hairy Spiny Dorid,MPS,Carnivore,Predation,Bryozoans,Mobile,Small,Dorid
+Acotylea,Acotylean Flatworms,MPS,Carnivore,Predation,Invertebrates,Mobile,Medium,Polyclad
+Acromegalomma,Fan Worm,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Tubicolous
+Acromegalomma vesiculosum,Fan Worm,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Tubicolous
+Acrosiphonia coalita,Green Rope,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Filamentous
+Actinia,Anemone,MPS,Carnivore,Predation,Zooplankton / Small fish / Crabs,Semi-sessile,Medium,Radial
+Actinia equina,Atlantic Beadlet Anemone,MPS,Carnivore,Predation,Zooplankton / Small fish / Crabs,Semi-sessile,Medium,Radial
+Actinia fragacea,Strawberry Anemone,MPS,Carnivore,Predation,Zooplankton / Small fish / Crabs,Semi-sessile,Medium,Radial
+Actiniaria,Sea Anemones,MPS,Carnivore,Predation,Zooplankton / Small fish / Crabs,Semi-sessile,Medium,Radial
+Actiniidae,Sea Anemones,MPS,Carnivore,Predation,Zooplankton / Small fish / Crabs,Semi-sessile,Medium,Radial
+Aeolidia,Sea Slugs,MPS,Carnivore,Predation,Anemones,Mobile,Small,Vermiform unsegmented
+Aeolidia filomenae,Sea Slug,MPS,Carnivore,Predation,Anemones,Mobile,Small,Vermiform unsegmented
+Aeolidia papillosa,Grey Sea Slug ,MPS,Carnivore,Predation,Anemones,Mobile,Small,Vermiform unsegmented
+Aeolidiella alderi,Sea Slug,MPS,Carnivore,Predation,Anemones,Mobile,Small,Vermiform unsegmented
+Aeolidiella glauca,Glauca Aeolid,MPS,Carnivore,Predation,Anemones,Mobile,Medium,Vermiform unsegmented
+Aequipecten opercularis,Queen Scallop,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Semi-sessile,Medium,Bivalved
+Agardhiella subulata,Agardh's red weed,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Aglaophamus macroura,Purple Worm,MPS,Carnivore,Predation ,Invertebrates,Mobile,Small ,Vermiform segmented
+Ahnfeltia plicata,Landlady's Wig,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Ahnfeltiales,Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Alcyonidium,Sea Chervil,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Large,Dendroid
+Alcyonium digitatum,Dead Man's Fingers,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Large,Digitate
+Alentia gelatinosa,Scale Worm,MPS,Carnivore,Predation,Invertebrates,Mobile,Medium,Gelatinous
+Alitta succinea,Clam Worm,MPS,Omnivore,Predation / Grazing,Invertebrates / Algae / Detritus,Mobile,Small,Vermiform segmented
+Alitta virens,King Ragworm,MPS,Omnivore,Predation / Grazing,Invertebrates / Algae / Detritus,Mobile,Large,Vermiform segmented
+Amblyosyllis,Bristle Worms,MPS,Omnivore,Predation / Grazing,Invertebrates / Algae / Detritus,Mobile,Medium,Vermiform segmented
+Amblyosyllis spectabilis,Mustache Worm,MPS,Omnivore,Predation / Grazing,Invertebrates / Algae / Detritus,Mobile,Medium,Vermiform segmented
+Ammodytidae,Sand Lances,MPS,Omnivore,Predation / Grazing,Small crustaceans / Phytoplankton,Mobile,Small,Pisciform
+Ammotheidae,Sea Spiders,MPS,Carnivore,Predation,Soft-bodied invertebrates,Mobile,Small,Articulate
+Amphipholis,Brittle Stars,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile ,Medium,Radial / Stellate
+Amphipholis squamata,Dwarf Brittle Stars,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile ,Small,Radial / Stellate
+Amphipoda,Amphipods,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Small,Cylindrical
+Amphiporus lactifloreus,Milk-white Ribbon Worm,MPS,Carnivore,Predation,Amphipods / Crustaceans,Mobile,Medium,Vermiform unsegmented
+Ampithoe,Amphipod,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Small,Tubicolous
+Anemonia,Anemone,MPS,Carnivore,Predation,Small fish / Crustaceans ,Semi-sessile,Medium,Radial
+Anemonia viridis,Snakelocks Anemone,MPS,Carnivore,Predation,Small fish / Crustaceans ,Semi-sessile,Medium,Radial
+Anguilliformes,True Eels,MPS,Carnivore,Predation,Crustaceans / Fish / Invertebrates,Mobile,Medium,Pisciform
+Anomia,Oysters,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Bivalved
+Anomia achaeus,Saddle Oyster,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Bivalved
+Anomia ephippium,Saddle Oyster,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Bivalved
+Anomiidae,Jingle Shells,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Bivalved
+Anomura,Hermit Crab,MPS,Carnivore,Scavenging,Carrion,Mobile,Medium,Articulate
+Anotrichium barbatum,Bearded Red Seaweed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Anthopleura ballii,Red-speckled Anemone,MPS,Carnivore,Predation,Small invertebrates,Semi-sessile,Medium,Radial
+Anthopleura thallia,Glaucous Pimplet,MPS,Carnivore,Predation,Small invertebrates,Semi-sessile,Medium,Radial
+Anthozoa,Sea Anemones and Corals,MPS,Carnivore,Predation,Zooplankton / Small fish,Sessile,Small-Large,Radial
+Antiopella cristata,Crested Aeolis,MPS,Carnivore,Predation,Bryozoans,Mobile,Medium,Vermiform unsegmented
+Anurida maritima,Seashore Springtail,MPS,Carnivore,Scavenging,Dead crustaceans / molluscs,Mobile,Small,Cylindrical
+Apletodon dentatus,Small-headed Clingfish,MPS,Carnivore,Predation,Crustaceans / Amphipods,Mobile,Medium,Pisciform
+Aplidium,Sea Pork,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small-Large,Crustose soft
+Aplidium elegans,Sea Strawberry,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Crustose soft
+Aplidium glabrum,Encrusting Sea Squirt,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Crustose soft
+Aplidium pallidum,Encrusting Sea Squirt,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Crustose soft
+Aplidium punctum,Orange Club Sea Squirt,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Crustose soft
+Aplousobranchia,Sea Squirts,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small-Large,Crustose soft
+Aplysia,Sea Slugs,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Large,Vermiform unsegmented
+Aplysia depilans,Depilatory Seahare,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Large,Vermiform unsegmented
+Aplysia punctata,Spotted Seahare,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Large,Vermiform unsegmented
+Aplysilla,Encrusting Sponges,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Crustose soft
+Aplysilla sulfurea,Sulphur Sponge,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Crustose soft
+Archidoris pseudoargus,Sea Lemon,MPS,Carnivore,Predation,Sponges,Mobile,Large,Vermiform unsegmented
+Arenicola,Polychaete Worms,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Medium,Vermiform segmented
+Arenicola marina,Blow Lugworm,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Medium,Vermiform segmented
+Arenicolidae,Lugworms,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Medium,Vermiform segmented
+Ascidia mentula,Sea Squirts,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Ovoid
+Ascidiacea,Sea Squirts,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Ovoid
+Ascidiella aspersa,European Ascidian,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Ovoid
+Ascidiella scabra,hairy sea-squirt,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Ovoid
+Ascidiidae,Sea Squirts,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Ovoid
+Ascophyllum nodosum,Knotted Wrack,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Asparagopsis,Red Macroalgae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Asparagopsis armata,Harpoonweed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Asterias rubens,Common Sea Star,MPS,Carnivore,Predation,Bivalves / Polychaetes,Mobile,Large,Radial / Stellate
+Asterina,Small Starfishes,MPS,Carnivore,Predation,Bivalves / Polychaetes,Mobile,Small,Radial / Stellate
+Asterina gibbosa,Cushion Star,MPS,Carnivore,Predation,Bivalves / Polychaetes,Mobile,Medium,Radial / Stellate
+Asterina phylactica,Small Cushion Star,MPS,Carnivore,Predation,Bivalves / Polychaetes,Mobile,Small,Radial / Stellate
+Asterinidae,"Cushion Stars, Carpet Stars, and Allies",MPS,Carnivore,Predation,Bivalves / Polychaetes,Mobile,Medium,Radial / Stellate
+Atelecyclus rotundatus,Circular Crab,MPS,Carnivore,Predation,Invertebrates,Mobile,Medium,Articulate
+Athanas nitescens,Hooded Prawn,MPS,Omnivore,Predation / Grazing,Algae / Detritus / Invertebrates,Mobile,Small,Cylindrical
+Atherina presbyter,Sand Smelt,MPS,Carnivore,Predation  ,Invertebrates / Crustaceans,Mobile,Large,Pisciform
+Austrominius modestus,Beaked Barnacle,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Conical
+Autobranchia,Bivalve Molluscs,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Bivalved
+Babakina anadoni,Rainbow Sea Slug,MPS,Carnivore,Predation,Hydroid polyps,Mobile,Small,Vermiform unsegmented
+Balanidae,Barnacle,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Conical
+Balanomorpha,Symmetrical Sessile Barnacles,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Conical
+Balanophyllia,Cup Coral,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Conical
+Balanophyllia regia,Gold Star Coral,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Conical
+Balanus,Rock Barnacles,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Conical
+Balanus crenatus,Wrinkled Barnacle,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Conical
+Bangiaceae,Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Foliose
+Barnea candida,White Piddock,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Boring
+Batrachospermaceae,Frog-spawn Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Filamentous
+Berthella plumula,Side-Gilled Sea Slug,MPS,Carnivore,Predator,Tunicates / Sponges,Mobile,Medium,Vermiform unsegmented
+Bifurcaria bifurcata,Brown Forking Weed,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Bispira volutacornis,Twin Fanworm,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Colonial
+Bittium reticulatum,Small Needle-whelk,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Elongate conical
+Bivalvia,Bivalves,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Bivalved
+Blenniidae,Combtooth Blennies,MPS,Omnivore,Predation / Grazing,Invertebrates / Algae,Mobile,Medium,Pisciform
+Blenniiformes,Blennies and Allies,MPS,Omnivore,Predation / Grazing,Invertebrates / Algae,Mobile,Medium,Pisciform
+Bonnemaisonia hamifera,Bonnemaison's Hook Weed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Bornetia secundiflora,Bornet's Coral Weed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Botrylloides,Sea Squirts,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Crustose soft
+Botrylloides diegensis,San Diego Sea Squirt,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Crustose soft
+Botrylloides leachii,Ladder Ascidian,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Crustose soft
+Botrylloides violaceus,Chain Tunicate,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Crustose soft
+Botryllus,Star Ascidian,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Crustose soft
+Botryllus schlosseri,Star Tunicate,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Crustose soft
+Brachiopoda,Brachiopods,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Bivalved
+Brachyura,True Crabs,MPS,Omnivore,Predation / Grazing,Crustaceans / Algae / Detritus,Mobile,Medium,Cylindrical
+Bryopsis,Hair Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Filamentous
+Bryopsis plumosa,Hen Pen,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Filamentous
+Bryozoa,Bryozoans,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Crustose hard
+Buccinoidea,True Whelks and Allies,MPS,Carnivore,Predation,Carrion / Bivalves,Mobile,Medium,Turbinate
+Buccinum undatum,Common Whelk,MPS,Carnivore,Predation,Carrion / Bivalves,Mobile,Medium,Turbinate
+Bunodactis,Gem Anemone,MPS,Carnivore,Predation,Invertebrates / Crustaceans,Sessile,Medium,Radial
+Bunodactis verrucosa,Gem Anemone,MPS,Carnivore,Predation,Invertebrates / Crustaceans,Sessile,Medium,Radial
+Caenogastropoda,Caenogastropods,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Small,Cylindrical
+Calliblepharis,Red Algae,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Calliblepharis ciliata,Eyelash Weed,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Calliblepharis jubata,Lance-Shaped Eyelash Weed,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Callionymus lyra,Common Dragonet,MPS,Carnivore,Predation,Invertebrates,Mobile,Large,Pisciforme
+Calliopioidea,Amphipods,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Small,Cylindrical
+Calliostoma zizyphinum,European Painted Top Shell,MPS,Omnivore,Predation / Grazing,Microalgae / Sessile organisms,Mobile,Small,Conoidal
+Callista chione,Smooth Clam,SSF,Primary consumer,Suspension feeding  ,Bacteria / Plankton / Detritus,Sessile,Medium ,Bivalved
+Callochiton septemvalvis,Smooth Mail-shell,MG,Omnivore,Predation / Grazing,Algae / Biofilm / Organic sediments,Mobile,Medium,Articulate
+Callophyllis,Red Algae,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Calvadosia,Stalked Jellyfish,MPS,Carnivore,Predation,Invertebrates,Sessile,Medium,Medusiform
+Calvadosia campanulata,Stalked Jellyfish,MPS,Carnivore,Predation,Invertebrates,Sessile,Medium,Medusiform
+Calyptraea chinensis,Chinese Hat Snail,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Conical
+Cancer pagurus,Edible Crab,MPS,Carnivore,Predation,Molluscs / Carrion / Crustaceans,Mobile,Large,Articulate
+Candelabrum cocksii,Cocks Candelabrum Hydroid,MPS,Carnivore,Predation,Crustaceans,Mobile,Medium,Aborescent
+Cantharidinae,Top Shells,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Medium,Turbinate
+Caprella,Skeleton Shrimp,SSF,Primary consumer ,Suspension feeding ,Bacteria / Plankton / Detritus,Sessile,Small,Cylindrical
+Carcinidae,Crabs,MPS,Omnivore,Predation / Grazing,Animal and plant material,Mobile,Medium,Articulate
+Carcinus,Green Crabs,MPS,Omnivore,Predation / Grazing,Animal and plant material,Mobile,Medium,Articulate
+Carcinus maenas,European Green Crab,MPS,Omnivore,Predation / Grazing,Animal and plant material,Mobile,Medium,Articulate
+Cardiidae,Cockles,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Bivalved
+Caridea,Caridean Shrimps,MPS,Omnivore,Predation / Grazing,Crustaceans / Algae / Detritus,Mobile,Medium,Cylindrical
+Caryophyllia smithii,Devonshire Cup Coral,SSF,Primary consumer ,Suspension feeding ,Bacteria / Plankton / Detritus,Sessile,Small,Cylindrical / Radial
+Catenella caespitosa,Creeping Chain Weed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Filamentous
+Caulacanthus,Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Caulacanthus okamurae,Pom-pom Weed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Cellepora pumicosa,Orange Pumice Bryozoan,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Crustose hard
+Ceramiales,Filamentous Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Ceramium,Banded Weeds,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Ceramium pallidum,Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Ceramium virgatum,Red Hornweed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Cerastoderma,Cockles,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Cerastoderma edule,Common Cockle,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Cereus pedunculatus,Daisy Anemone,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Radial
+Cerianthus,Tube Dwelling Anemone,MPS,Carnivore,Predation,Zooplankton,Mobile,Medium,Vermiform unsegmented
+Cerithioidea,Cerith Snails and Allies,MG,Omnivore,Predation / Grazing,Algae / Biofilm / Organic sediments,Mobile,Large,Turbinate
+Chaetomorpha linum,Sea Hair,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Filamentous
+Chamelea striatula,Striped Venus,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Cheilostomatida,Cheilostomatid Bryozoans,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small ,Crustose hard
+Chelon labrosus,Thicklip Grey Mullet,MPS,Omnivore,Predation / Grazing,Invertebrates / Epiphytic algae,Mobile,Large,Pisciform
+Chitonida,Chitons,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Medium,Articulate
+Chitonida,Coat-of-Mail Shells,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Medium,Articulate
+Chitonina,Chitons,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Medium,Articulate
+Chlorophyta,Green Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Filamentous
+Chondria coerulescens,Iridescent Cartilage Weed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Chondria dasyphylla,Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Chondrus,Irish Moss,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Foliose
+Chondrus crispus,Irish Moss,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Foliose
+Chorda filum,Mermaid's Tresses,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Chromista,"Kelp, Diatoms, and Allies",TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Chthamalidae,Chthamalid Barnacles,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Conical
+Chthamalus,Acorn barnacles ,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Conical
+Chthamalus montagui,Montagu's Stellate Barnacle,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Conical
+Chylocladia verticillata,Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Ciliata mustela,Five-bearded Rockling,MPS,Omnivore,Predation / Grazing,Crustaceans / Algae,Mobile,Medium,Pisciform
+Ciona intestinalis,Sea Vase,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Cylindrical
+Cirratulidae,Segmented Worms,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Medium,Vermiform segmented
+Cirriformia capensis,Orange Thread-gilled Worm,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Large,Vermiform segmented
+Cirripedia,Barnacles,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Conical
+Cladophora,Blanket Weed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Filamentous
+Cladophora,Green Branched Weed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Filamentous
+Cladophora columbiana,Green Pin-cushion Alga,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Filamentous
+Cladophora glomerata,Blanket Weed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Filamentous
+Cladophora rupestris,Rock Weed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Filamentous
+Cladostephus,Brown Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Cladostephus spongiosus,Hairy Sand Weed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Clausinella fasciata,Banded Venus,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Small,Bivalved
+Clava,Sea Squirts,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Cylindrical
+Clavelina lepadiformis,Lightbulb Sea Squirt,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Cylindrical
+Clibanarius erythropus,Saint Piran's Hermit Crab,MPS,Omnivore,Predation / Grazing,Algae / Detritus ,Mobile,Small,Cylindrical
+Clionaidae,Boring Sponges,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Large,Boring
+Cnidaria,Cnidarians,MPS,Carnivore,Predation,Zooplankon / Crustaceans,Mobile,Medium,Radial
+Codium,Codiums,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Mat
+Codium fragile,Dead Man's Fingers,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Mat
+Codium tomentosum,Velvet Horn,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Mat
+Collemopsidium foveolatum,Marine Lichen,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Crustose hard
+Colpomenia,Puff-ball Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Colpomenia peregrina,Oyster-thief,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Colpomenia sinuosa,Oyster-thief,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Colus gracilis,Common Spindle,MPS,Carnivore,Predation / Scavenging,Carrion / Bivalves,Mobile,Medium,Turbinate
+Conopeum,Bryozoans,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Crustose hard
+Corallina,Coralline Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Crustose hard
+Corallina officinalis,Common Coralline,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Crustose hard
+Corallina officinalis,Coralline Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Crustose hard
+Corallinaceae,Coralline Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Crustose hard
+Corallinales,Coralline Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Crustose hard
+Corallineae,Coralline Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Crustose hard
+Corallinoideae,Coralline Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Crustose hard
+Corallinophycidae,Coralline Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Crustose hard
+Cordylecladia erecta,Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Corella eumyota,Orange-tipped Sea Squirt,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Ovate 
+Coryphella gracilis,Slender Eolis,MPS,Carnivore,Predation / Scavenging,Carrion / Bivalves,Mobile,Medium,Turbinate
+Coryphella lineata,Striped Fjordia,MPS,Carnivore,Predation / Scavenging,Carrion / Bivalves,Mobile,Medium,Turbinate
+Coryphoblennius galerita,Montagu's Blenny,MG,Omnivore,Predation / Grazing,Algae / Biofilm / Organic sediments,Mobile,Medium,Pisciform
+Corystes cassivelaunus,Masked Crab,MPS,Carnivore,Predation,Burrowing invertebrates,Mobile,Medium,Articulate
+Crangon crangon,Brown Shrimp,MPS,Omnivore,Predation / Grazing,Animal and plant material,Mobile,Medium,Articulate
+Craterolophus convolvulus,Goblet Stalked Jellyfish,MPS,Carnivore,Predation  ,Small invertebrates,Mobile,Small ,Medusiform
+Crepidula,Typical Slippersnails,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Turbinate
+Crepidula fornicata,Common Slipper Limpet,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Turbinate
+Cryptopleura ramosa,Fine-veined Crinkle Weed,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Cryptopleura ruprechtiana,Grape Tongue,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Cryptosiphonia woodii,Bleached Brunette,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Cryptosula,Bryozoans,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Crustose hard
+Cryptosula pallasiana,Keyhole Bryozoan,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Crustose hard
+Ctenostomatida,Ctenostomatid Bryozoans,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Crustose soft
+Cuthonella concinna,Neat Aeolid,MPS,Carnivore,Predation,Hydroids,Mobile,Small,Vermiform unsegmented
+Cylista,Elegant Anemone,SSF,Carnivore,Suspension feeding,Zooplankton / Invertebrates,Sessile,Medium,Radial
+Cylista elegans,Elegant Anemone,SSF,Carnivore,Suspension feeding,Zooplankton / Invertebrates,Sessile,Medium,Radial
+Cylista troglodytes,Cave-dwelling Anemone,SSF,Carnivore,Suspension feeding,Zooplankton / Invertebrates,Sessile,Small,Radial
+Cymodoce truncata,Sea Slater,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Small,Cylindrical
+Cymothoidae,Fish Isopods,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Small,Cylindrical
+Cystoseira foeniculacea,Bushy Feather Wrack,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Dasysiphonia japonica,Siphoned Japan Weed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Decapoda,Decapods,MPS,Omnivore,Predation / Deposit feeding,Molluscs / Fish / Detritus,Mobile,Medium,Cylindrical
+Delesseria sanguinea,Sea Beech,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Demospongiae,Demosponges,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Massive
+Dendrodoa grossularia,Baked Bean Ascidian,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Globose
+Derbesia marina,Silky Thread Weed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Filamentous
+Desmarestia aculeata,Spiny Sour Weed,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Desmarestia aculeata,Witch's hair,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Desmarestia ligulata,Flattened Acid Kelp,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Desmarestia viridis,Stringy Acid Kelp,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Dictyota dichotoma,Forked Ribbons,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Dictyota fasciola,Brown Algae,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Didemnidae,Overgrowing Tunicates,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Colonial
+Didemnum,Wrinkled Sea Mats,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Colonial
+Didemnum maculosum,Sea Squirt,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Colonial
+Didemnum vexillum,Carpet Sea Squirt,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Colonial
+Dilsea carnosa,Red Rags,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Foliose
+Diogenidae,Left-handed Hermit Crabs,MPS,Omnivore,Predation / Scavenging,Carrion,Mobile,Medium,Cylindrical
+Diplosoma listerianum,Jelly Crust Tunicate,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Colonial 
+Diplosoma spongiforme,Jelly-Synascidian,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Colonial 
+Disporella hispida,Encrusting Bryozoan,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Crustose hard
+Doridoidea,Sea Lemons and Allies,MPS,Carnivore,Predation,Sponges,Mobile,Medium,Vermiform unsegmented
+Doris berghi,Berg's Nudibranch,MPS,Carnivore,Predation,Sponges,Mobile,Small,Vermiform unsegmented
+Dosinia,Artemis Clam,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Dosinia exoleta,Rayed Artemis,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Doto,Sea Slugs,MPS,Carnivore,Predation,Hydroids,Mobile,Small,Vermiform unsegmented
+Doto coronata,Crowned Seaslug,MPS,Carnivore,Predation,Hydroids,Mobile,Small,Vermiform unsegmented
+Dumontia contorta,Worm Weed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Dynamena pumila,Garland Hydroid,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Aborescent
+Dynamene bidentata,Horned Isopod,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Aborescent
+Dysidea fragilis,Goosebump Sponge,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Crustose soft / Cushion
+Echinogammarus marinus,Sand Shrimp,MG,Herbivore,Grazing,Macroalgae,Mobile,Small ,Cylindrical
+Ectocarpales,Filamentous Brown Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Edmundsella pedata,Pink Coryphella,MPS,Carnivore,Predation,Hydroids,Mobile,Small,Cylindrical
+Elachista fucicola,Tiny Wrack Bush,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Electra,Sea Mat,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Foliose
+Electra pilosa,Hairy Sea-mat,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Crustose hard
+Electra pilosa,Thorny Sea Mat,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Crustose hard
+Electridae,Sea Mat,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Foliose
+Ellisolandia elongata,Coralline Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Crustose hard
+Elysia viridis,Sap-sucking Slug,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Vermiform unsegmented
+Emplectonema gracile,Green Ribbon Worm,MPS,Carnivore,Predation,Barnacles,Mobile,Large,Vermiform unsegmented
+Emplectonema neesii,Ribbon Worm,MPS,Carnivore,Predation,Barnacles,Mobile,Large,Vermiform unsegmented
+Endocladia muricata,Scouring-pad Alga,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Crustose hard
+Ensis,Razor Clam,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Ensis siliqua,Pod Razor,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Enthemonae,Sea Anemones,MPS,Carnivore,Predation,Small fish / Crustaceans,Sessile,Medium,Radial
+Entoprocta,Entoprocts,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small ,Radial
+Ericaria,Rainbow Wrack,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Ericaria selaginoides,Rainbow Wrack,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Ericthonius,Tube-dwelling Amphipods,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Cylindrical
+Errantia,Bristle Worms,MPS,Carnivore,Predation / Scavening,Invertebrates / Carrion,Mobile,Medium,Vermiform unsegmented
+Eualus cranchii,Dwarf Shrimp,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Medium,Cylindrical
+Eubrachyura,Eubrachyuran Crabs,MPS,Omnivore,Predation / Grazing,Algae / Small invertebrates,Mobile,Medium,Globose
+Eubranchus,Sea Slugs,MPS,Carnivore,Predation  ,Hydroids,Mobile,Medium,Vermiform unsegmented
+Eubranchus exiguus,Minute Aeolis,MPS,Carnivore,Predation  ,Hydroids,Mobile,Small,Vermiform unsegmented
+Eucarida,Decapods and Krill,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Small,Cylindrical
+Eudesme virescens,Brown Algae,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Eulalia,Paddle Worms,MPS,Carnivore,Predation  ,Invertebrates,Mobile,Medium,Vermiform segmented
+Eulalia clavigera,Emerald Green Paddle Worm,MPS,Carnivore,Predation  ,Invertebrates,Mobile,Medium,Vermiform segmented
+Eulalia viridis,Green Leaf Worm,MPS,Carnivore,Predation  ,Invertebrates,Mobile,Medium,Vermiform segmented
+Eumalacostraca,"Decapods, Isopods, and allies",MPS,Omnivore,Predation / Grazing,Invertebrates / Algae / Detritus,Mobile,Medium,Cylindrical
+Euryleptidae,Flatworms,MPS,Carnivore,Predation,Sea squirts,Mobile,Medium,Lanceolate
+Euspira catena,Large Necklace Shell,MPS,Carnivore,Predation,Molluscs,Mobile,Small ,Globose
+Euthyneura,Gastropods,MPS,Omnivore,Predation / Grazing,Algae / Sponges / Cnidarians,Mobile,Small,Cylindrical
+Facelina,Sea Slugs,MPS,Carnivore,Predation,Hydroids,Mobile,Medium,Vermiform unsegmented
+Facelina auriculata,Crowned Aeolis,MPS,Carnivore,Predation,Hydroids,Mobile,Small,Vermiform unsegmented
+Facelina bostoniensis,Boston Facelina,MPS,Carnivore,Predation,Hydroids,Mobile,Medium,Vermiform unsegmented
+Favorinus branchialis,White Aeolis,MPS,Carnivore,Predation,Eggs of other nudibranchs,Mobile,Small,Vermiform unsegmented
+Flabelligera affinis,Flabby Bristle Worm,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Medium,Vermiform segmented
+Florideophyceae,Florideophycean Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Flustra foliacea,Leafy Bryozoa,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Crustose hard / foliose
+Flustrellidra,Sea Mat,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Foliose
+Flustrellidra hispida,Spiny Sea Mat,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Crustose hard / foliose
+Flustrina,Sea Mats,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Foliose
+Fucaceae,Rockweed,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Fucales,Fucoids,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Fucophycidae,Brown Algae,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Fucus,Vesicled Rockweeds,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Fucus ceranoides,Horned Wrack,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Fucus distichus,Rockweed,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Fucus serratus,Saw Wrack,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Fucus spiralis,Spiral Wrack,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Fucus vesiculosus,Bladder Wrack,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Furcellaria,Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Furcellaria lumbricalis,Clawed Forked Weed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Gaidropsaridae,Rocklings,MPS,Omnivore,Predation / Grazing,Crustaceans / Small fish / Algae,Mobile,Large,Pisciform
+Gaidropsarus,Rocklings,MPS,Omnivore,Predation / Grazing,Crustaceans / Small fish / Algae,Mobile,Large,Pisciform
+Gaidropsarus mediterraneus,Shore Rockling,MPS,Omnivore,Predation / Grazing,Crustaceans / Small fish / Algae,Mobile,Large,Pisciform
+Galathea,Squat Lobster ,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Medium,Cylindrical
+Galathea squamifera,Black Squat Lobster,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Medium,Cylindrical
+Galathea strigosa,Spiny Squat lobster,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Medium,Cylindrical
+Galatheoidea,Squat Lobsters and Porcelain Crabs,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Medium,Cylindrical
+Gammaridae,Shrimp,MG,Herbivore,Grazing / Deposit feeding,Algae / Biofilm / Organic sediments,Mobile,Small ,Cylindrical
+Gammaridae,Shrimp,MG,Herbivore,Grazing / Deposit feeding,Algae / Biofilm / Organic sediments,Mobile,Small ,Cylindrical
+Gammarus,Shrimp,MG,Herbivore,Grazing / Deposit feeding,Algae / Biofilm / Organic sediments,Mobile,Small ,Cylindrical
+Gammarus locusta,Common Intertidal Amphipod,MG,Herbivore,Grazing / Deposit feeding,Algae / Biofilm / Organic sediments,Mobile,Small ,Cylindrical
+Gasterosteidae,Sticklebacks,MPS,Carnivore,Predation  ,Invertebrates / Zooplankton ,Mobile,Medium,Pisciform
+Gastroclonium ovatum,Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small ,Aborescent
+Gastropoda,Gastropods,MPS,Omnivore,Predation / Grazing,Algae / Molluscs / Hydroids,Mobile,Medium,Cylindrical
+Gelidium,Jellyweeds,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small ,Aborescent
+Gelidium spinosum,Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Gibbula magus,Turban Topshell,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Turbinate
+Gigartinales,Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Glycymeris glycymeris,Dog Cockle,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Gnathophiurina,Brittle Stars,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Medium,Radial / Stellate
+Gobiidae,Gobies,MPS,Omnivore,Predation / Grazing,Crustaceans / Algae / Small Fishes,Mobile,Medium,Pisciforme
+Gobioidei,Gobies and Allies,MPS,Omnivore,Predation / Grazing,Crustaceans / Algae / Small Fishes,Mobile,Medium,Pisciforme
+Gobius,Gobies,MPS,Omnivore,Predation / Grazing,Crustaceans / Algae / Small Fishes,Mobile,Medium,Pisciforme
+Gobius cobitis,Giant Goby,MPS,Omnivore,Predation / Grazing,Crustaceans / Algae / Small Fishes,Mobile,Large,Pisciforme
+Gobius paganellus,Rock Goby,MPS,Omnivore,Predation / Grazing,Crustaceans / Algae / Small Fishes,Mobile,Medium,Pisciforme
+Gongolaria baccata,Bushy Berry Wrack,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Gongolaria nodicaulis,Bushy Noduled wrack,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Gracilaria,Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Gracilariaceae,Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Gracilariales,Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Gracilariopsis andersonii,Red Sea Spaghetti,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Grantia compressa,Purse Sponge,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Cylindrical
+Grapsoidea,"Land, shore, and marsh crabs",MPS,Omnivore,Predation / Grazing,Algae / Crustaceans / Worms,Mobile,Medium,Globose
+Grateloupia turuturu,Devil's Tongue Weed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Gymnolaemata,Naked Throat Bryozoans,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Crustose hard
+Hadziidira,Scuds,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Medium,Cylindrical
+Hadzioidea,Scuds,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Medium,Cylindrical
+Halacaridae,Marine Mites,MPS,Omnivore,Predation / Grazing,Invertebrates / Crustaceans,Mobile,Small,Cylindrical
+Halichondria,Sea Sponges,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Large,Crustose soft
+Halichondria bowerbanki,Yellow Sun Sponge,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Large,Crustose soft
+Halichondria panicea,Bread-crumb Sponge,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Crustose soft
+Halichondriidae,Bread-crumb Sponge,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Crustose soft
+Haliclona cinerea,Purple Encrusting Sponge,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Crustose soft
+Haliclona indistincta,Chalinid Sponge,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Crustose soft
+Haliclona oculata,Mermaid's Glove,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Massive
+Haliclystus,Stalked Jellyfish,MPS,Carnivore,Predation,Small invertebrates,Sessile,Small,Radial
+Haliclystus auricula,Kaleidoscope Jelly,MPS,Carnivore,Predation,Small invertebrates,Sessile,Small,Radial
+Halidrys,Brown Algae,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Halidrys siliquosa,Sea-oak,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Halopteris,Brown Algae,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Halopteris scoparia,Feather Boa Kelp,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Halurus,Red Algae,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Halymeniaceae,Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Hapalidiaceae,Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Crustose hard
+Harmothoe,Fifteen-scaled Worms,MPS,Omnivore,Predation / Grazing,Invertebrates / Seagrass / Diatoms,Mobile,Medium,Vermiform segmented
+Harmothoe clavigera,Fifteen-scaled Worms,MPS,Omnivore,Predation / Grazing,Invertebrates / Seagrass / Diatoms,Mobile,Medium,Vermiform segmented
+Harmothoe extenuata,Fifteen-scaled Worms,MPS,Omnivore,Predation / Grazing,Invertebrates / Seagrass / Diatoms,Mobile,Medium,Vermiform segmented
+Harmothoe imbricata,Fifteen-scaled Worms,MPS,Omnivore,Predation / Grazing,Invertebrates / Seagrass / Diatoms,Mobile,Medium,Vermiform segmented
+Harmothoe impar,Bristle Worms,MPS,Omnivore,Predation / Grazing,Invertebrates / Seagrass / Diatoms,Mobile,Medium,Vermiform segmented
+Hediste diversicolor,Estuary Ragworm,MPS,Omnivore,Predation / Grazing,Invertebrates / Seagrass / Diatoms,Mobile,Medium,Vermiform segmented
+Hemigrapsus takanoi,Brush-clawed Shore Crab,MPS,Omnivore,Predation / Grazing,Molluscs / Algae / Detritus,Mobile,Small ,Globose
+Henricia sanguinolenta,Northern Blood Star,MPS,Omnivore,Predation / Grazing,SOM / Detritus / Sponges,Mobile,Medium,Stellate
+Hermaea bifida,Crimson Hermaea,MG,Herbivore,Grazing,Red algae,Mobile,Small,Vermiform unsegmented
+Hesionidae,Bristle Worms,MPS,Carnivore,Predation,Small crustaceans / Invertebrates,Mobile,Medium,Vermiform segmented
+Heteroconchia,Bivalve Molluscs,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Bivalved
+Heteroscleromorpha,Sponges,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Massive
+Heterotremata,Heterotrematan Crabs,MPS,Omnivore,Predation / Grazing,Molluscs / Algae / Detritus,Mobile,Medium,Globose
+Hiatella arctica,Wrinkled Rockborer,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Bivalved
+Hildenbrandia,Encrusting Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Crustose hard
+Hildenbrandia rubra,Rusty Rock,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Crustose hard
+Himanthalia,Brown Algae,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Himanthalia elongata,Thongweed,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Hippolyte varians,Chamaeleon Prawn,MG,Omnivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Articulate
+Hyalidae,Beach Hoppers,MPS,Omnivore,Predation / Grazing,Algae / Detritus / Small animals,Mobile,Small ,Cylindrical
+Hydroidolina,Hydroids,SSF,Carnivore,Suspension feeding,Zooplankton ,Sessile,Medium,Aborescent
+Hydrozoa,Hydrozoans,MPS,Carnivore,Predation  ,Zooplankton / Fish larvae,Sessile,Small,Aborescent
+Hymedesmia,Encrusting Sponge,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Massive
+Hymeniacidon,Encrusting Sponge,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Large,Massive
+Hymeniacidon perlevis,Crumb-of-bread Sponge,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Large,Massive
+Hypoglossum heterocystideum,Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Idotea,Isopods,MG,Herbivore,Grazing,Fucoid algae / Epiphytes,Mobile,Small,Indeterminate
+Idotea balthica,Baltic Isopod,MG,Herbivore,Grazing,Fucoid algae / Epiphytes,Mobile,Small,Indeterminate
+Idotea emarginata,Sea Slater,MG,Herbivore,Grazing,Fucoid algae / Epiphytes,Mobile,Small,Indeterminate
+Idotea granulosa,Granular Isopod,MG,Herbivore,Grazing,Fucoid algae / Epiphytes,Mobile,Small,Indeterminate
+Idotea neglecta,Marine Isopod,MG,Herbivore,Grazing,Fucoid algae / Epiphytes,Mobile,Small,Indeterminate
+Imparidentia,Bivalve Molluscs,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Bivalved
+Inachus phalangium,Leach's Spider Crab,MPS,Omnivore,Predation / Grazing,Crustaceans / Algae / Detritus,Mobile,Medium,Articulate
+Isactinia olivacea,Olive Anemone,MPS,Carnivore,Predation  ,Small invertebrates ,Sessile,Medium,Polyp
+Isopoda,Isopods,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Small,Cylindrical
+Jaera,Jaera Isopods,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Small,Cylindrical
+Jania,Red Coralline Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Crustose hard
+Jania rubens,Red Jania,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium ,Crustose hard
+Janolus hyalinus,Crystal Janolus,MPS,Carnivore,Predation,Bryozoans,Mobile,Small,Vermiform unsegmented
+Jassa,Tube-dwelling Amphipods,MPS,Omnivore,Predation / Grazing,Detritus / Small organisms,Mobile,Small,Articulate
+Jorunna tomentosa,Velvet Dorid,MPS,Carnivore,Predation,Encrusting siliceous sponges,Mobile,Small,Vermiform unsegmented
+Labrinae,North Atlantic Wrasses,MPS,Carnivore,Predation,Crustaceans / Molluscs,Mobile,Large,Pisciform
+Labrus bergylta,Ballan Wrasse,MPS,Carnivore,Predation,Crustaceans / Molluscs,Mobile,Large,Pisciform
+Lacuna pallidula,Pallid Lacuna,MG,Herbivore,Grazing,Periphytic microalgae,Mobile,Small ,Turbinate
+Laevicardium crassum,Norwegian Egg Cockle,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium ,Bivalved
+Laminaria,Oarweed,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Laminaria digitata,Oarweed,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Laminaria hyperborea,Sea Rods,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Laminaria ochroleuca,Golden Kelp,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Laminariaceae,Oarweed,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Laminariales,Kelp,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Lanice conchilega,Sand Mason Worm,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Medium,Vermiform segmented
+Laurencia,Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Laurencia obtusa,Rounded Brittle Fern Weed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Leathesia marina,Sea Cauliflower,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Mat
+Leodice harassii,White Dotted Worm,MPS,Omnivore,Predation / Grazing,Invertebrates / Sediment / Detritus,Mobile,Medium,Vermiform segmented
+Lepadogaster,Clingfish,MPS,Carnivore,Predation,Crustaceans,Mobile,Medium,Pisciform
+Lepadogaster candolii,Connemarra Clingfish,MPS,Carnivore,Predation,Crustaceans,Mobile,Medium,Pisciform
+Lepadogaster purpurea,Cornish Sucker,MPS,Carnivore,Predation,Crustaceans,Mobile,Medium,Pisciform
+Lepadogastrinae,Clingfish,MPS,Carnivore,Predation,Crustaceans,Mobile,Medium,Pisciform
+Lepidochitona,Chitons,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Articulate
+Lepidochitona cinerea,Grey Mail-shell,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Articulate
+Lepidonotus,Scale Worms,MPS,Omnivore,Predation / Grazing,Invertebrates / Seagrass,Mobile,Medium,Vermiform segmented
+Lepidonotus clava,Button Scale Worm,MPS,Omnivore,Predation / Grazing,Invertebrates / Seagrass,Mobile,Medium,Vermiform segmented
+Lepidonotus squamatus,Twelve-scaled Worm,MPS,Omnivore,Predation / Grazing,Invertebrates / Seagrass,Mobile,Medium,Vermiform segmented
+Leptoplana,Gelatinous Flatworm,MPS,Carnivore,Predation / Deposit feeding,Invertebrates / Detritus,Mobile,Medium,Lanceolate
+Leptoplana,Marine Flatworm,MPS,Carnivore,Predation / Deposit feeding,Invertebrates / Detritus,Mobile,Medium,Lanceolate
+Leptoplana tremellaris,Gelatinous Flatworm,MPS,Carnivore,Predation / Deposit feeding,Invertebrates / Detritus,Mobile,Medium,Lanceolate
+Leptoplanoidea,Marine Flatworm,MPS,Carnivore,Predation / Deposit feeding,Invertebrates / Detritus,Mobile,Medium,Lanceolate
+Leucosolenia,Tube Sponges,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Cylindrical
+Lichina,Black Tufted Lichen,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Crustose hard
+Ligia oceanica,Common Sea Slater,MPS,Omnivore,Predation / Grazing,Seaweed / Algae / Detritus,Mobile,Small,Cylindrical
+Limacia clavigera,Orange-clubbed Sea Slug,MPS,Carnivore,Predation,Encrusting bryozoans,Mobile,Small,Vermiform unsegmented
+Lineus,Bloody Ribbon Worm,MPS,Carnivore,Predation,Crustaceans / Molluscs / Worms,Mobile,Large,Vermiform unsegmented
+Lineus longissimus,Bootlace Worm,MPS,Carnivore,Predation,Crustaceans / Molluscs / Worms,Mobile,Large,Vermiform unsegmented
+Lipophrys,Shanny,MPS,Omnivore,Predation / Grazing,Invertebrates / Algae,Mobile,Large,Pisciform
+Lipophrys pholis,Shanny,MPS,Omnivore,Predation / Grazing,Invertebrates / Algae,Mobile,Large,Pisciform
+Lissoclinum perforatum,Sea Squirt,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Tubicolous / Colonial
+Lithophyllum,Encrusting Coralline Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Crustose hard
+Lithophyllum incrustans,Encrusting Coralline Alga,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Crustose hard
+Lithothamnion,Maerl,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Crustose hard
+Lithothamnion,Thalloid Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Crustose hard
+Lithothamnion corallioides,Maerl,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Crustose hard
+Littorina,Small Sea Snails,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Turbinate
+Littorina fabalis,Smooth Flat Periwinkle,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Turbinate
+Littorina littorea,Common Periwinkle,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Turbinate
+Littorina obtusata,Flat Periwinkle,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Turbinate
+Littorina saxatilis,Rough Periwinkle,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Turbinate
+Littorinidae,Periwinkle Snails,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Turbinate
+Littorininae,Periwinkle Snails,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Turbinate
+Littorininidae,Periwinkle Snails,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Turbinate
+Littorinoidea,Periwinkle Snails,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Turbinate
+Littorinoidea,Periwinkle Snails and Allies,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Turbinate
+Lomentaria,Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Lomentaria articulata,Bunny Ears,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Lottiidae,Lottiid Limpets,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Medium,Conical
+Lucinoma,Lucines,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Lyngbya,Mermaid's Hair,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Filamentous
+Lysidice ninetta,Bristle Worm,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Large,Vermiform segmented
+Macoma,"Tellins, Sunset Clams, and Allies",SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Small,Bivalved
+Macoma balthica,Baltic Tellin,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Small,Bivalved
+Macomangulus tenuis,Thin Tellin,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Small,Bivalved
+Macropodia,Long-legged Spider Crabs,MPS,Omnivore,Predation / Grazing,Invertebrates / Algae,Mobile,Small,Articulate
+Macropodia rostrata,Long-legged Spider Crabs,MPS,Omnivore,Predation / Grazing,Invertebrates / Algae,Mobile,Small,Articulate
+Mactra stultorum,Rayed Trough Shell,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Maeridae,Scuds ,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Small,Cylindrical
+Magallana gigas,Pacific Oyster,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Large,Bivalved
+Maja brachydactyla,Spiny Spider Crab,MPS,Omnivore,Predation / Grazing,Seaweeds / Molluscs / Carrion,Mobile,Medium,Articulate
+Majoidea,Spider Crabs and Decorator Crabs,MPS,Omnivore,Predation / Grazing,Seaweeds / Molluscs / Carrion,Mobile,Medium,Articulate
+Marthasterias glacialis,Spiny Starfish,MPS,Carnivore,Predation  ,Molluscs / Invertebrates,Mobile,Large,Radial / Stellate
+Mastocarpus,Encrusting Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Foliose
+Mastocarpus stellatus,False Irish Moss,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Foliose
+Mazzaella splendens,Splendid Iridescent Seaweed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Foliose
+Melitidae,Bivalve Scuds,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Small,Cylindrical
+Membranipora membranacea,Kelp Lace Bryozoan,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Crustose hard
+Membraniporoidea,Sea Mat,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Foliose
+Membranoptera alata,Winged Weed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Mercenaria mercenaria,Northern Quahog,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Bivalved
+Mesophyllum,Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Crustose hard
+Mesophyllum lichenoides,Pink Plates,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Crustose hard
+Metacallophyllis laciniata,Beautiful Fan Weed,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Metacallophyllis laciniata,Red Algae,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Metacallophyllis laciniata,Red Sea Fan,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Metridioidea,Sea Anemones,MPS,Carnivore,Predation,Small fish / Crustaceans,Sessile,Medium,Radial / Globose
+Metridium,Plumose Anemones,SSF,Carnivore,Suspension feeding,Zooplankton,Sessile,Medium,Radial / Globose
+Metridium senile,Plumose Anemone,SSF,Carnivore,Suspension feeding,Zooplankton,Sessile,Medium,Radial / Globose
+Mimachlamys varia,Variegated Scallop,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Bivalved
+Modiolus modiolus,Northern Horse Mussel,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Semi-sessile,Medium,Bivalved
+Morchellium argus,Colonial Sea Squirt,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Cushion
+Morchellium argus,Red Flake Ascidian,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Cushion
+Multicrustacea,Typical Crustaceans,MPS,Omnivore,Predation / Grazing,Organic material,Mobile,Small,Cylindrical
+Mya arenaria,Sand Gaper,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Myostaurida,Stalked Jellyfish,MPS,Carnivore,Predation,Crustaceans / Larvae / Plankton,Sessile,Medium,Radial  
+Myoxocephalus scorpius,Shorthorn Sculpin,MPS,Carnivore,Predation,Small fish / Crustaceans,Mobile,Large,Pisciform
+Mysidae,Opossom Shrimp,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Small,Cylindrical
+Mytiloidea,True Mussels,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Semi-sessile,Medium,Bivalved
+Mytilus,Black Mussels,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Semi-sessile,Medium,Bivalved
+Mytilus edulis,Blue Mussel,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Semi-sessile,Medium,Bivalved
+Myxilla incrustans,Rough Scallop Sponge,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Massive
+Nassariinae,Marine Snails,MPS,Carnivore,Scavenging,Carrion / Detritus,Mobile,Small,Turbinate
+Necora puber,Velvet Swimming Crab,MPS,Omnivore,Predation / Grazing,Brown algae / Molluscs,Mobile,Large,Globose
+Nematoda,Nematodes,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Small,Vermiform unsegmented
+Nemertesia antennina,Sea Beard,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Aborescent
+Neogastropoda,"Neogastropods, Whelks and Cone Shells",MPS,Carnivore,Predation,Bivalves,Sessile,Medium,Turbinate
+Neoloricata,Neoloricate Chitons,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Articulate
+Neomolgus,Marine Mites,MPS,Carnivore,Predation,Blood / Tissue,Mobile,Small,Cylindrical
+Nereididae,Ragworms and Allies,MPS,Carnivore,Predation,Invertebrates / Carrion,Mobile,Large,Vermiform segmented
+Nereidiformia,Ragworms and Allies,MPS,Carnivore,Predation,Invertebrates / Carrion,Mobile,Large,Vermiform segmented
+Nereidinae,Ragworms and Allies,MPS,Carnivore,Predation,Invertebrates / Carrion,Mobile,Large,Vermiform segmented
+Nerophis,Pipefishes,MPS,Carnivore,Predation,Copepods / Small crustaceans,Mobile,Large,Cylindrical
+Nerophis lumbriciformis,Worm Pipefish,MPS,Carnivore,Predation,Copepods / Small crustaceans,Mobile,Large,Cylindrical
+Notocomplana,Intertidal Flatworms,MPS,Carnivore,Predation,Small invertebrates,Mobile,Small,Lanceolate
+Notoplana,Flatworms,MPS,Carnivore,Predation,Small invertebrates,Mobile,Small,Lanceolate
+Nucella,Dog Whelks,MPS,Carnivore,Predation,Barnacles / Mussels,Mobile,Medium,Turbinate
+Nucella lapillus,Atlantic Dogwhelk,MPS,Carnivore,Predation,Barnacles / Mussels,Mobile,Medium,Turbinate
+Nudibranchia,Nudibranchs,MPS,Carnivore,Predation,Sponges / Hydroids / Bryozoans,Mobile,Medium,Vermiform unsegmented
+Nudipleura,True and Side-gilled Sea Slugs,MPS,Carnivore,Predation,Sponges / Hydroids / Bryozoans,Mobile,Medium,Vermiform unsegmented
+Nuuanuidae,Amphipods,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Small,Cylindrical
+Nymphon gracile,Gracile Sea Spider,MPS,Carnivore,Predation,Invertebrates,Mobile,Small,Segmented
+Obelia geniculata,Knotted Thread Hydroid,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Penicillate
+Ocenebra,Sting Winkle,MPS,Carnivore,Predation,Bivalves / Tubicolous worms,Mobile,Medium,Turbinate
+Ocenebra erinaceus,European Sting Winkle,MPS,Carnivore,Predation,Bivalves / Tubicolous worms,Mobile,Medium,Turbinate
+Okenia nodosa,Angular Seaslug,MPS,Carnivore,Predation,Sea squirts,Mobile,Small,Vermiform unsegmented
+Onchidoris bilamellata,Barnacle-eating Dorid,MPS,Carnivore,Predation,Barnacles  ,Mobile,Small,Vermiform unsegmented
+Ophiactoidea,Brittle Stars,SSF,Omnivore,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Radial / Stellate
+Ophiocomina nigra,Black Brittle-star,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Radial / Stellate
+Ophiopholis aculeata,Daisy Brittle Stars,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Radial / Stellate
+Ophiothrix fragilis,Common Brittle Stars,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Radial / Stellate
+Ophiuroidea,Brittle Stars,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Radial / Stellate
+Ophlitaspongia papilla,Red Sponge,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Massive
+Ophlitaspongiinae,Microcionid Sponges,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Massive
+Orchestia,Beach Hoppers,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Small,Cylindrical
+Orchestia mediterranea,Mediterranean Beach Hopper,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Small,Cylindrical
+Oscarella,Sea Sponges,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Flaccid
+Oscarella lobularis,Flesh Sponge,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Flaccid
+Oscarella nicolae,Marine Sponges ,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Flaccid
+Osmundea,Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Osmundea pinnatifida,Pepper Dulse,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Ostrea,Flat Oysters,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Large,Bivalved
+Ostrea edulis,Native Oyster,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Large,Bivalved
+Ostreidae,True Oysters,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Large,Bivalved
+Paguroidea,Hermit Crabs,MPS,Carnivore,Scavenging,Carrion,Mobile,Medium,Cylindrical
+Pagurus,Hermit Crabs,MPS,Carnivore,Scavenging,Carrion,Mobile,Medium,Cylindrical
+Pagurus bernhardus,Common Hermit Crab,MPS,Carnivore,Scavenging,Carrion,Mobile,Medium,Cylindrical
+Palaemon,Glass Shrimps,MPS,Omnivore,Predation / Grazing,Detritus / Invertebrates / Algae,Mobile,Medium,Cylindrical
+Palaemon affinis,Glass Shrimps,MPS,Omnivore,Predation / Grazing,Detritus / Invertebrates / Algae,Mobile,Medium,Cylindrical
+Palaemon elegans,Rockpool Prawn,MPS,Omnivore,Predation / Grazing,Detritus / Invertebrates / Algae,Mobile,Medium,Cylindrical
+Palaemon serratus,Common Prawn,MPS,Omnivore,Predation / Grazing,Detritus / Invertebrates / Algae,Mobile,Medium,Cylindrical
+Palaemonidae,Palaemonid Shrimp,MPS,Omnivore,Predation / Grazing,Detritus / Invertebrates / Algae,Mobile,Medium,Cylindrical
+Palio nothus,Sea Slug,MPS,Carnivore,Predation,Bryozoans,Mobile,Small ,Cylindrical
+Palmaria,Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Foliose
+Palmaria palmata,Dulse,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Foliose
+Pantopoda,Sea Spiders,MPS,Carnivore,Predation,Cnidarians / Sponges,Mobile,Small ,Cylindrical
+Parablennius gattorugine,Tompot Blenny,MPS,Omnivore,Predation / Grazing,Algae / Invertebrates,Mobile,Large,Pisciform
+Patella,Patella Limpets,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Medium,Conical
+Patella depressa,Black-footed Limpet,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Medium,Conical
+Patella pellucida,Blue-rayed Limpet,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Medium,Conical
+Patella ulyssiponensis,China Limpet,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Medium,Conical
+Patella vulgata,Common European Limpet,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Medium,Conical
+Patellidae,Patellid Limpets,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Medium,Conical
+Patellogastropoda,True Limpets,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Medium,Conical
+Pawsonia saxicola,Sea Gherkin,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Vermiform segmented
+Pecten maximus,Great Scallop,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Pectinidae,Scallops,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Pedinae,Scallops,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Pelvetia canaliculata,Channelled Wrack,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Peracarida,"Amphipods, Isopods, and Allies",DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Small,Cylindrical
+Perforatus perforatus,Perforated Barnacle,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Conical
+Perinereis,Polychaete Worms,MPS,Omnivore,Predation / Grazing,Algae / Detritus / Microorganisms,Mobile,Large,Vermiform segmented
+Perinereis cultrifera,Ragworm,MPS,Omnivore,Predation / Grazing,Algae / Detritus / Microorganisms,Mobile,Large,Vermiform segmented
+Peringia ulvae,Laver Spire-shell,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Small,Turbinate
+Petricolaria pholadiformis,False Angelwing,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Bivalved
+Peyssonnelia dubyi,Red Rock Crust,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Crustose hard
+Phaeophyceae,Brown Algae,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Aborescent
+Phasianellidae,Pheasant-shells,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Turbinate
+Phlebobranchia,Sea Squirts,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Tubicolous / Colonial
+Pholadidae,Piddocks and Angelwings,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Pholadinae,Piddocks and Angelwings,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Pholas dactylus,Common Piddock,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Pholis,Shanny,MPS,Carnivore,Predation,Molluscs / Crustaceans,Mobile,Large,Pisciform
+Pholis gunnellus,Rock Gunnel,MPS,Carnivore,Predation,Molluscs / Crustaceans,Mobile,Large,Pisciform
+Pholoe,Scale Worms,MPS,Carnivore,Predation,Polychaetes / Crustaceans,Mobile,Large,Vermiform segmented
+Phorcus,Top Shells,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Conical
+Phorcus lineatus,Lined Top Shell,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Conical
+Phyllodoce,Paddle Worms,MPS,Carnivore,Predation / Scavenging,Invertebrates / Carrion,Mobile,Medium,Vermiform segmented
+Phyllodoce mucosa,Spotted Paddleworm,MPS,Carnivore,Predation / Scavenging,Invertebrates / Carrion,Mobile,Medium,Vermiform segmented
+Phyllodocida,Paddle Worms,MPS,Carnivore,Predation / Scavenging,Invertebrates / Carrion,Mobile,Medium,Vermiform segmented
+Phyllodocida,Scale Worms and Paddle Worms,MPS,Carnivore,Predation / Scavenging,Invertebrates / Carrion,Mobile,Medium,Vermiform segmented
+Phyllodocidae,Paddle Worms,MPS,Carnivore,Predation / Scavenging,Invertebrates / Carrion,Mobile,Medium,Vermiform segmented
+Phymatolithon,Maerl,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Crustose hard
+Pilumnus hirtellus,Hairy Crab,MPS,Omnivore,Predation / Grazing,Invertebrates / Algae / Carrion,Mobile,Small,Articulate
+Pirimela denticulata,Toothed Crab,MPS,Omnivore,Predation / Grazing,Invertebrates / Algae / Carrion,Mobile,Small,Articulate
+Pisidia longicornis,Long-clawed Porcelain Crab,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Small,Globose
+Placida dendritica,Branched Sapsucker,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Cylindrical
+Platyhelminthes,Flatworms,MPS,Carnivore,Predation,Small invertebrates,Mobile,Small,Lanceolate
+Pleocyemata,"Crabs, Lobsters, Shrimps, and Allies",MPS,Omnivore,Predation / Grazing,Molluscs / Echinoderms / Algae,Mobile,Medium,Cylindrical
+Pleurobranchida,Side-gilled Sea Slugs,MPS,Carnivore,Predation,Zooplankton,Mobile,Medium,Vermiform unsegmented
+Plocamium,Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Plocamium cartilagineum,Sea Comb,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Plumularia,Hydroids,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Pinnate
+Pododesmus patelliformis,Ribbed Saddle Oyster,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Bivalved
+Poecilosclerida,Encrusting Sponges,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Massive
+Polititapes rhomboides,Banded Venus,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Bivalved
+Polybius holsatus,Flying Crab,MPS,Carnivore,Predation  ,Invertebrates / Juvenile fish,Mobile,Medium,Articulate
+Polybius navigator,Arch-fronted Swimming Crab,MPS,Carnivore,Predation  ,Invertebrates / Juvenile fish,Mobile,Medium,Articulate
+Polycera,Sea Slugs,MPS,Carnivore,Predation  ,Bryozoans,Mobile,Medium,Vermiform unsegmented
+Polycera norvegica,Sea Slug,MPS,Carnivore,Predation  ,Bryozoans,Mobile,Medium,Vermiform unsegmented
+Polycera quadrilineata,Four-lined Polycera,MPS,Carnivore,Predation  ,Bryozoans,Mobile,Medium,Vermiform unsegmented
+Polychaeta,Polychaete Worms,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Medium,Vermiform segmented
+Polycladida,Polyclad Flatworms,MPS,Carnivore,Predation,Invertebrates / Molluscs,Mobile,Small,Lanceolate
+Polyclinidae,Colonial Sea Squirts,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Tubicolous / Colonial
+Polydora ciliata,Bristle Worms,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Small,Vermiform segmented
+Polyides rotunda,Discoid Fork Weed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Polynoidae,Scale Worms,MPS,Omnivore,Predation / Grazing,Invertebrates / Algae,Mobile,Medium,Vermiform segmented
+Polyophthalmus pictus,Polychaete Worms,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Medium,Vermiform segmented
+Polyplacophora,Chitons,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Medium,Articulate
+Polysiphonia,Red Hair Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Pomatoschistus,Gobies,MPS,Carnivore,Predation,Amphipods / Isopods,Mobile,Medium,Pisciform
+Pomatoschistus flavescens,Two-spotted Goby,MPS,Carnivore,Predation,Amphipods / Isopods,Mobile,Medium,Pisciform
+Pomatoschistus microps,Common Goby,MPS,Carnivore,Predation,Amphipods / Isopods,Mobile,Medium,Pisciform
+Pomatoschistus pictus,Painted Goby,MPS,Carnivore,Predation,Amphipods / Isopods,Mobile,Medium,Pisciform
+Porcellana platycheles,Hairy Porcelain Crab,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Globose
+Porifera,Sponges,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Massive
+Porphyra,Laver Seaweed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Foliose
+Portunoidea,Swimming Crabs and Allies,MPS,Omnivore,Predation / Grazing,Crustaceans / Bivalves / Algae,Mobile,Large,Globose
+Praunus flexuosus,Chameleon Shrimp,MPS,Omnivore,Predation / Grazing,Macrozooplankton / Algae,Mobile,Small,Cylindrical
+Prionitis lanceolata,Bleach Weed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Processa edulis crassipes,Nika Shrimp,MPS,Carnivore,Predation  ,Small polychaetes,Mobile,Small,Articulate
+Propebela turricula,Turreted Conelet,MPS,Carnivore,Predation  ,Ploychaete worms,Mobile,Small,Turbinate
+Prostheceraeus vittatus,Candy Stripe Flatworm,MPS,Carnivore,Predation  ,Tunicates,Mobile,Medium,Lanceolate
+Protosuberites,Yellow Encrusting Sponge,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Massive
+Psamathe fusca,Polychaete Worm,MPS,Carnivore,Predation / Deposit feeding,Invertebrates / Detritus,Mobile,Medium,Segmented
+Psammechinus miliaris,Green Sea Urchin,MPS,Omnivore,Predation / Grazing,Macroalgae / Barnacles / Hydroids,Mobile,Medium,Globose
+Pseudoralfsia verrucosa,Atlantic Limpet-garden Weed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Psychrolutidae,Fathead Sculpins,MPS,Carnivore,Predation,Crustaceans / Molluscs,Mobile,Large,Cylindrical
+Pteriomorphia,Bivalve Molluscs,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Bivalved
+Pterocladiella capillacea,Branched wing weed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Pycnogonida,Pycnogonids,MPS,Carnivore,Predation,Anemones,Mobile,Small,Segmented
+Pycnogonum litorale,Littoral Sea Spider,MPS,Carnivore,Predation,Anemones,Mobile,Small,Segmented
+Pyura squamulosa,Scaly Sea Squirt,SSF,Primary consumer,Suspension feeder,Bacteria / Plankton / Detritus,Sessile,Medium,Tubicolous / Colonial
+Ralfsia,Ralfsia,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Crustose hard
+Rhabditophora,Rhabditophoran Flatworms,MPS,Carnivore,Predation / Deposit feeding,Invertebrates / Detritus,Mobile,Small,Lanceolate
+Rhizoclonium riparium,Rooting Green Thread Weed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Filamentous
+Rhodomelaceae,Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Rhodophyta,Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Rhodothamniella floridula,Red seaweed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Crustose hard
+Rhodymenia,Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Rhodymeniophycidae,Red Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Rissoa parva,Tiny Risso Snail,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Turbinate
+Rivularia bullata,Blistered Brook Weed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Filamentous
+Rostanga rubra,Red Velvet Sea Slug,MPS,Carnivore,Predation,Red encrusting sponges,Mobile,Small,Vermiform unsegmented
+Ruditapes,Marine Clams,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Bivalved
+Ruditapes decussatus,Grooved Carpet Shell,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Bivalved
+Ruditapes philippinarum,Manila Clam,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Bivalved
+Sabellaria alveolata,Honeycomb Worm,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Tubicolous
+Sabellariidae,Honeycomb Worms,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Tubicolous
+Sabellida,Feather Duster Worms,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Tubicolous
+Sabellidae,Feather Duster Worms,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Tubicolous
+Sabellinae,Feather Duster Worms,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Tubicolous
+Saccharina,Sugar Kelp,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Saccharina latissima,Sugar Kelp,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Saccorhiza,Brown Algae,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Saccorhiza polyschides,Furbelows,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Salariinae,Combtooth Blennies,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Large,Pisciform
+Sarcodiotheca gaudichaudii,Succulent Seaweed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Sargassaceae,Sargassum and Allies,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Sargassum,Sargassum,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Sargassum muticum,Japanese Wireweed,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Schizoporella unicornis,Single Horn Bryozoan,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Crustose hard
+Schizoporelloidea,Bryozoans,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Crustose hard
+Schizoporelloidea,Sea Mat,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Foliose
+Scrobicularia plana,Peppery Furrow Shell,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Medium,Bivalved
+Scytosiphon lomentaria,Beanweed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Sedentaria,Sedentary and Tube-dwelling Bristle Worms,MPS,Carnivore,Predation,Salps / Cnidarians,Sessile,Medium,Tubicolous / Colonial
+Semibalanus,Barnacle,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Conical
+Semibalanus balanoides,Northern Acorn Barnacle,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Conical
+Senticaudata,Scuds and Sideswimmers,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Small,Cylindrical
+Serpulidae,Serpulid Tubeworms,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Tubicolous / Colonial
+Sertularella polyzonias,Great Tooth Hydroid,MPS,Carnivore,Predation,Zooplankton,Sessile,Large,Dendroid
+Sertularia,Hydroids,MPS,Carnivore,Predation,Zooplankton,Sessile,Large,Dendroid
+Sipuncula,Peanut Worms,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Medium,Vermiform unsegmented
+Solen,Razor Shells,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Bivalved
+Solen marginatus,Grooved Razor Shell,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Bivalved
+Solieria chordalis,Solier's Red String Weed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Sphaerococcus coronopifolius,False Gorgon,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Sphaeromatidae,Typical Seapills,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Cylindrical
+Spionidae,Spionid Worms,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Vermiform segmented
+Spirobranchus,Christmas Tree Worms,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Tubicolous / Colonial
+Spirobranchus lamarcki,Lamarck's Christmas Tree Worm,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Tubicolous / Colonial
+Spirobranchus triqueter,Keeled Tubeworm,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Tubicolous / Colonial
+Spirorbinae,Spiral Tube Worms,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Tubicolous / Colonial
+Spirorbis,Spiral Fanworms,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Tubicolous / Colonial
+Spirorbis spirorbis,Coil Worm,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Tubicolous / Colonial
+Spisula,Trough Shells,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Spisula solida,Thick Trough Shell,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Spongonema tomentosum,Brown Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Filamentous
+Stauromedusae,Stalked Jellyfish,MPS,Carnivore,Predation,Invertebrates,Sessile,Small,Radial
+Staurozoa,Stalked Jellies,MPS,Carnivore,Predation,Invertebrates,Sessile,Small,Radial
+Stelligeridae,Demosponges,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Vermiform segmented
+Steromphala,Sea Snails,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Conical
+Steromphala,Top Shells,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Conical
+Steromphala cineraria,Grey Topshell,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Conical
+Steromphala umbilicalis,Purple Topshell,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Conical
+Sthenelais boa,Scale Worm,MPS,Carnivore,Predation,Invertebrates,Mobile,Medium,Vermiform segmented
+Stilophora tenella,Brown Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Styela clava,Stalked Sea Squirt,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Tubicolous / Colonial
+Styelidae,Sea Squirts,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Tubicolous / Colonial
+Stylochus,Polyclad Flatworms,MPS,Carnivore,Predation,Bivalves / Gastropods,Mobile,Small,Lanceolate
+Suberites,Sea Orange,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Massive
+Sycon ciliatum,Small Calcareous Cup,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Cylindrical
+Syllidae,Necklace Worms,MPS,Omnivore,Predation / Grazing,Sponges / Hydroids / Algae,Mobile,Small,Vermiform segmented
+Symphodus melops,Corkwing Wrasse,MPS,Carnivore,Predation,Molluscs / Bryozoans,Mobile,Large,Pisciform
+Syngnathidae,"Pipefishes, Seahorses, and Seadragons",MPS,Carnivore,Predation,Crustaceans,Mobile,Medium,Pisciform
+Syngnathiformes,Pipefishes and Allies,MPS,Carnivore,Predation,Crustaceans,Mobile,Medium,Pisciform
+Synoicum,Sea Squirts,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Tubicolous / Colonial
+Talitridae,Sandhoppers and Landhoppers,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Small,Articulate
+Talochlamys pusio,Humpback Scallop,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Bivalved
+Tapetinae,Venus Clams ,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Bivalved
+Taurulus,Long Spined Bullhead,MPS,Carnivore,Predation,Small fish / Crustaceans,Mobile,Large,Pisciform
+Taurulus bubalis,Longspined Bullhead,MPS,Carnivore,Predation,Small fish / Crustaceans,Mobile,Large,Pisciform
+Tectipleura,Tectiplueran Sea Slugs,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Vermiform unsegmented
+Tectura virginea,White Tortoiseshell Limpet,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Conical
+Tedania ignis,Fire Sponge,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Spherical / Tuberculate
+Tellinoidea,"Tellins, Sunset Clams, and Allies",MPS,Carnivore,Predation,Hydroids,Mobile,Small,Lanceolate
+Tenellia aurantia,Orange-tip Sea Slug,MPS,Carnivore,Predation,Hydroids,Mobile,Small,Lanceolate
+Tenellia cuanensis,Tenellia Sea Slug,MPS,Carnivore,Predation,Hydroids,Mobile,Small,Lanceolate
+Terebellida,Bristle Worms,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Medium,Vermiform segmented
+Terebellidae,Spaghetti Worms,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Medium,Vermiform segmented
+Terpios gelatinosus,Blue Encrusting Sponge,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Crustose hard
+Testudinalia testudinalis,Tortoiseshell Limpet,MG,Herbivore,Grazing,Coralline algae,Mobile,Small,Conical
+Tethya,Puffball Sponges,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Massive
+Tethya aurantium,Golf Ball Sponge,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Massive
+Tethya citrina,Orange Puffball Sponge,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Massive
+Thalassema thalassema,Gaertner's Spoon Worm,DDF,Detritivore,Deposit feeding,Detritus / Organic matter,Mobile,Medium,Vermiform unsegmented
+Thoracica,Normal Barnacles,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Conical
+Tricolia,Pheasant-shells,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small ,Turbinate
+Tricolia picta,Pheasant-shells,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small ,Turbinate
+Tritia,Dog Whelks,MPS,Carnivore,Scavenging,Carrion / Detritus,Mobile,Small,Turbinate
+Tritia incrassata,Thick-lipped Dogwhelk,MPS,Carnivore,Scavenging,Carrion / Detritus,Mobile,Small,Turbinate
+Tritia reticulata,Netted Dogwhelk,MPS,Carnivore,Scavenging,Carrion / Detritus,Mobile,Small,Turbinate
+Trivia,Cowrie,MPS,Carnivore,Predation,Sea squirts,Mobile,Small,Ovoid
+Trivia arctica,Northern Cowrie,MPS,Carnivore,Predation,Sea squirts,Mobile,Small,Ovoid
+Trivia monacha,European Cowrie,MPS,Carnivore,Predation,Sea squirts,Mobile,Small,Ovoid
+Triviidae,Bean Cowries,MPS,Carnivore,Predation,Sea squirts,Mobile,Small,Ovoid
+Trochidae,Top Shells,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Turbinate
+Trochoidea,Top Shells,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Turbinate
+Tubularia indivisa,Oaten Pipes Hydroid,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Turf
+Tunicata,Tunicates,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Medium,Tunic
+Turritellinella tricarinata,Common Tower Shell,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Small,Turbinate
+Ulva,Sea Lettuces,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Mat
+Ulva fenestrata,Sea Lettuce ,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Mat
+Ulva flexuosa,Flexuous Gutweed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Mat
+Ulva intestinalis,Gutweed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Mat
+Ulva lactuca,Broadleaf Sea Lettuce,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Mat
+Ulva prolifera,Broadleaf Sea Lettuce,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Mat
+Ulva rigida,Sea Lettuce,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Mat
+Ulvaceae,Sea Lettuces,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Mat
+Ulvales,Sea Lettuces and Allies,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Mat
+Ulvophyceae,Ulvophycean Green Algae,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Mat
+Undaria pinnatifida,Wakame,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Aborescent
+Urosalpinx cinerea,Eastern Oyster Drill,MPS,Carnivore,Predation,Oysters,Mobile,Medium,Turbinate
+Urticina felina,Dahlia Anemone,MPS,Carnivore,Predation,Crustaceans / Molluscs,Sessile,Medium,Globose
+Venerida,Venus Clams ,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Veneridae,Venus Clams ,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Venerinae,Venus Clams ,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Veneroidea,Venus Clams ,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Venerupis corrugata,Pullet Carpet Shell,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Venus,Venus Clams ,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Venus casina,Pale Venus,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Venus verrucosa,Warty Venus Clam,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Mobile,Medium,Bivalved
+Verruca stroemia,Wart Barnacle,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small ,Conical
+Vertebrata lanosa,Wrack Siphon Weed,TFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Small,Aborescent
+Vetigastropoda,Sea Snails,MG,Herbivore,Grazing,Algae / Biofilm / Organic sediments,Mobile,Small,Conical
+Watersipora,Marine Bryozoans,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Encrusting / Colonial
+Watersipora subatra,Red Ripple Bryozoan,SSF,Primary consumer,Suspension feeding,Bacteria / Plankton / Detritus,Sessile,Small,Encrusting / Colonial
+Xanthinae,Crabs,MPS,Carnivore,Predation,Molluscs / Crustaceans,Mobile,Medium,Globose
+Xantho,Crabs,MPS,Carnivore,Predation,Molluscs / Crustaceans,Mobile,Medium,Globose
+Xantho hydrophilus,Montagu's Crab,MPS,Carnivore,Predation,Molluscs / Crustaceans,Mobile,Medium,Globose
+Xantho pilipes,Risso's Crab,MPS,Carnivore,Predation,Molluscs / Crustaceans,Mobile,Medium,Globose
+Zeugopterus punctatus,Topknot,MPS,Carnivore,Predation,Crustaceans / Small fishes,Mobile,Large,Pisciform
+Zoarces viviparus,Viviparous Blenny,MPS,Carnivore,Predation,Gastropods / Crustaceans,Mobile,Large,Pisciform
+Zostera,Eelgrasses,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Mat
+Zostera marina,Eelgrass,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Mat
+Zostera noltii,Dwarf Eelgrass,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Medium,Mat
+Zosteraceae,Seagrasses,CFM,Primary producer,Photoautotrophy,Light / Nutrients,Sessile,Large,Mat
